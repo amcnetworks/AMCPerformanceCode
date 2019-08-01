@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NS1:root xmlns:NS1="http://schemahost.amcnetworks.com:8080/amcnesb/schemas" xmlns:amc="http://schemahost.amcnetworks.com:8080/amcnesb/schemas/adam">
+    <NS1:header>
+        <NS1:source_system>ESB</NS1:source_system>
+        <NS1:eventDefs>
+            <NS1:event>AMCN.PUBLISH.MAT.FTX</NS1:event>
+            <NS1:bid>RLA207489PM</NS1:bid>
+            <NS1:request_id>2b4674c7.5d96cc</NS1:request_id>
+            <NS1:event_id>3F73A20D-AFDD-4247-B16C-092EE7682E15</NS1:event_id>
+            <bpm_process_id>3F73A20D-AFDD-4247-B16C-092EE7682E15</bpm_process_id>
+            <bpm_activity_id>3F73A20D-AFDD-4247-B16C-092EE7682E15</bpm_activity_id>
+        </NS1:eventDefs>
+    </NS1:header>
+    <NS1:body>
+        <amc:AMCN-ProgramADAM xmlns:amc="http://schemahost.amcnetworks.com:8080/amcnesb/schemas/adam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://10.6.22.11:99/adam/v1.7.4/ProgramADAM_GenericSchema.xsd">
+            <amc:MediaAsset>
+             <amc:HierarchyParentID>HPID-056</amc:HierarchyParentID>
+                <amc:AMCNID>199107</amc:AMCNID>
+                <amc:MaterialID>MID-056</amc:MaterialID>
+                <amc:PAIDID />
+                <amc:MaterialType>Program</amc:MaterialType>
+				<amc:RequiredByDateTime>2018-09-04T16:00:00</amc:RequiredByDateTime>
+                <amc:VersionType>FTX</amc:VersionType>
+                <amc:Legacy>false</amc:Legacy>
+                <amc:ExpectedNumberOfSegments>2</amc:ExpectedNumberOfSegments>
+                <amc:SupplierFilename>Test_File</amc:SupplierFilename>
+				<amc:QCStatus>Pending</amc:QCStatus>
+	            <amc:QCDate>2018-10-10</amc:QCDate>
+				<amc:MediaAssetStatus>Pending</amc:MediaAssetStatus>
+                <amc:IsOnTape>false</amc:IsOnTape>
+                <amc:AspectRatioExpected>1.78</amc:AspectRatioExpected>
+                <amc:CodecExpected>DNx HD (SMPTE VC-3)</amc:CodecExpected>
+                <amc:ClosedCaptionsExpected>File</amc:ClosedCaptionsExpected>
+				<amc:ExpectedTRT>00:45:00</amc:ExpectedTRT>
+				<amc:Revision>7</amc:Revision>
+				<amc:LinkedMaterial>271617</amc:LinkedMaterial>
+				<amc:DateReceived>2018-08-30</amc:DateReceived>
+				<amc:FormatExpected>HD</amc:FormatExpected>
+				<amc:FrameRateExpected>DF30</amc:FrameRateExpected>
+				 <amc:SandPGroup>
+                    <amc:SandPStatus>Pending</amc:SandPStatus>
+                    <amc:SandPResource>Pending</amc:SandPResource>
+                    <amc:SandPRequiredByDate>2018-10-14</amc:SandPRequiredByDate>
+                    <amc:SandPIteration>1</amc:SandPIteration>
+                    <amc:SandPEditRequired>Pending</amc:SandPEditRequired>
+                    <amc:SandPEditStatus>Pending</amc:SandPEditStatus>
+                    <amc:SandPFilename>Test_File</amc:SandPFilename>
+                    <amc:SandPURL>Pending</amc:SandPURL>
+                </amc:SandPGroup>
+				<amc:BurntInSubtitles>
+                    <amc:BurntInSubtitleGroup>
+                        <amc:BurntInSubtitleExpected>true</amc:BurntInSubtitleExpected>
+                        <amc:BurntInSubtitleLanguageExpected>en</amc:BurntInSubtitleLanguageExpected>
+                        <amc:BurntInSubtitleTypeExpected>Full</amc:BurntInSubtitleTypeExpected>
+                        <amc:BurntInSubtitle>true</amc:BurntInSubtitle>
+                        <amc:BurntInSubtitleLanguage>en</amc:BurntInSubtitleLanguage>
+                        <amc:BurntInSubtitleType>Full</amc:BurntInSubtitleType>
+                    </amc:BurntInSubtitleGroup>
+                </amc:BurntInSubtitles>
+				<amc:AirTimes>
+                    <amc:AirTime Network="AMC" WOPInternalID="12737">2018-10-31T21:00:00</amc:AirTime>
+                    <amc:AirTime Network="AMC" WOPInternalID="12738">2018-11-01T23:00:00</amc:AirTime>
+                </amc:AirTimes>
+				<amc:Inactive>false</amc:Inactive>
+				<amc:Audios>
+                    <amc:Audio>
+                        <amc:AudioPairNumberExpected>Tracks 1&amp;2</amc:AudioPairNumberExpected>
+                        <amc:AudioDescriptionExpected>Stereo</amc:AudioDescriptionExpected>
+                        <amc:AudioLanguageExpected>en</amc:AudioLanguageExpected>
+                        <amc:AudioPairNumber>Tracks 1&amp;2</amc:AudioPairNumber>
+                        <amc:AudioDescription>Stereo</amc:AudioDescription>
+                        <amc:AudioLanguage>en</amc:AudioLanguage>
+                    </amc:Audio>
+                    <amc:Audio>
+                        <amc:AudioPairNumberExpected>Tracks 3&amp;4</amc:AudioPairNumberExpected>
+                        <amc:AudioDescriptionExpected>Stereo</amc:AudioDescriptionExpected>
+                        <amc:AudioLanguageExpected>en</amc:AudioLanguageExpected>
+                        <amc:AudioPairNumber>Tracks 3&amp;4</amc:AudioPairNumber>
+                        <amc:AudioDescription>Stereo</amc:AudioDescription>
+						<amc:AudioLanguage/>
+                    </amc:Audio>
+                </amc:Audios>
+				<amc:SupplierDuration>00:47:29;01</amc:SupplierDuration>
+				<amc:ColorBandW>Color</amc:ColorBandW>
+            </amc:MediaAsset>
+            <amc:Component ComponentType="Video">
+                <amc:HierarchyParentID>FD108609</amc:HierarchyParentID>
+                <amc:AMCNID>FD108609.video</amc:AMCNID>
+                <amc:MaterialID>L00000553</amc:MaterialID>
+                <amc:ComponentTypeMetadata>
+				<amc:ComponentDescription>Source Video</amc:ComponentDescription>
+                <amc:Format>HD</amc:Format>
+                <amc:FrameRate>DF30</amc:FrameRate>
+                <amc:AspectRatio>1.78</amc:AspectRatio>
+                <amc:VideoCodec>HDCam</amc:VideoCodec>
+                <amc:Inactive>false</amc:Inactive>
+                <amc:POAvailable>true</amc:POAvailable>
+                <amc:VideoAttributes />
+                </amc:ComponentTypeMetadata>
+            </amc:Component>
+            <amc:Component ComponentType="Closed Caption">
+                <amc:HierarchyParentID>FD108609</amc:HierarchyParentID>
+                <amc:AMCNID>FD108609.ClosedCaption</amc:AMCNID>
+                <amc:MaterialID>L00000554</amc:MaterialID>
+                <amc:ComponentTypeMetadata>
+                <amc:ClosedCaptionsAttributes />
+                </amc:ComponentTypeMetadata>
+            </amc:Component>
+        </amc:AMCN-ProgramADAM>  
+    </NS1:body>
+</NS1:root>

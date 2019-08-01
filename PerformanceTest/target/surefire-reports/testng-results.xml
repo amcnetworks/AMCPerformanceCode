@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="25562" started-at="2019-07-16T14:06:25Z" finished-at="2019-07-16T14:06:50Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="25562" started-at="2019-07-16T14:06:25Z" finished-at="2019-07-16T14:06:50Z">
+      <class name="com.run.test.PushingXMLDataToActiveMQ">
+        <test-method status="PASS" signature="performanceTestOnWOP()[pri:0, instance:com.run.test.PushingXMLDataToActiveMQ@5853495b]" name="performanceTestOnWOP" duration-ms="6565" started-at="2019-07-16T19:36:25Z" finished-at="2019-07-16T19:36:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performanceTestOnWOP -->
+        <test-method status="PASS" signature="performanceTestOnMP()[pri:0, instance:com.run.test.PushingXMLDataToActiveMQ@5853495b]" name="performanceTestOnMP" duration-ms="9519" started-at="2019-07-16T19:36:31Z" finished-at="2019-07-16T19:36:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performanceTestOnMP -->
+        <test-method status="PASS" signature="performanceTestOnMEDIATOR()[pri:0, instance:com.run.test.PushingXMLDataToActiveMQ@5853495b]" name="performanceTestOnMEDIATOR" duration-ms="9409" started-at="2019-07-16T19:36:41Z" finished-at="2019-07-16T19:36:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- performanceTestOnMEDIATOR -->
+      </class> <!-- com.run.test.PushingXMLDataToActiveMQ -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

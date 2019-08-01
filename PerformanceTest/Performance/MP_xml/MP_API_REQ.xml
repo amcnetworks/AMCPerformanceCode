@@ -1,0 +1,676 @@
+<NS1:root xmlns:NS1="http://schemahost.amcnetworks.com:8080/amcnesb/schemas">
+  <NS1:header>
+    <NS1:source_system>AMCN.MEDIAPULSE.API.REQUEST</NS1:source_system>
+    <NS1:eventDefs>
+      <NS1:event>CMS</NS1:event>
+      <NS1:bid>FD032662</NS1:bid>
+      <NS1:event_id>09B7B853-BE0D-4D92-8BD3-447FF0F8C7BA</NS1:event_id>
+    </NS1:eventDefs>
+    <NS1:replyto>AMCN.MEDIAPULSE.API.UPSERT.RESPONSE</NS1:replyto>
+  </NS1:header>
+  <NS1:body>
+    <legacySystem>CMS</legacySystem>
+    <legacySystemPK>FD032662</legacySystemPK>
+    <NS1:payload>{"SOURCE_SYSTEM":{"CMS":[{"DATA_MIGRATION":{"CREDITS":null,"ORIGINAL_CUT":"TV Edited","SECONDARY_CUT":null,"ALT_LANGUAGE":null,"DATA_MIGRATION_ROWID":"13868.0","CENSOR_STATUS":"Censored"},"BT":{"MAIN_TABLE":[{"FINAL_AUDIO_CONFIG_CH09":null,"SEGMENTS":{},"FINAL_AUDIO_CONFIG_CH11":null,"FINAL_AUDIO_CONFIG_CH01":null,"ID":null,"FINAL_AUDIO_CONFIG_CH03":null,"FINAL_AUDIO_CONFIG_CH05":null,"MATERIAL_ID":null,"FRAME_RATE":null,"FINAL_AUDIO_CONFIG_CH07":null},{"FINAL_AUDIO_CONFIG_CH09":null,"SEGMENTS":{"SEGMENT":[{"NUMBER":"1.0","TC_IN":"00;59;59;20","TC_OUT":"01;19;05;01"},{"NUMBER":"2.0","TC_IN":"01;19;05;11","TC_OUT":"01;32;44;27"},{"NUMBER":"3.0","TC_IN":"01;32;45;07","TC_OUT":"01;44;48;23"},{"NUMBER":"4.0","TC_IN":"01;44;49;03","TC_OUT":"01;53;59;12"},{"NUMBER":"5.0","TC_IN":"01;53;59;22","TC_OUT":"02;00;59;18"},{"NUMBER":"6.0","TC_IN":"02;00;59;28","TC_OUT":"02;08;36;03"},{"NUMBER":"7.0","TC_IN":"02;08;36;13","TC_OUT":"02;16;25;17"},{"NUMBER":"8.0","TC_IN":"02;16;25;27","TC_OUT":"02;25;17;08"},{"NUMBER":"9.0","TC_IN":"02;25;17;18","TC_OUT":"02;32;28;16"},{"NUMBER":"10.0","TC_IN":"02;32;28;26","TC_OUT":"02;39;16;12"},{"NUMBER":"11.0","TC_IN":"02;39;16;22","TC_OUT":"02;47;09;06"},{"NUMBER":null,"TC_IN":"02;39;16;03","TC_OUT":null}]},"FINAL_AUDIO_CONFIG_CH11":null,"FINAL_AUDIO_CONFIG_CH01":"ST-Full Mix Left","ID":"ADAM000725","FINAL_AUDIO_CONFIG_CH03":"ST-Full Mix Left","FINAL_AUDIO_CONFIG_CH05":null,"MATERIAL_ID":"AH019685","FRAME_RATE":"2997","FINAL_AUDIO_CONFIG_CH07":null}]},"RL":{"DATA":[{"VENDORID":"RLC8199","ID_ASSET":"162347","PRODUCT_INTENTION":"AMC","VENDOR":"MGM Domestic Television Distribution, LLC"}]},"TAPES":{"TAPE":[{"SUBTITLES":null},{"SUBTITLES":"NO"}]},"TITLE_VERSIONS":{"TOTAL_DURATION":"01:47:03.000","RATINGS_ISSUES":"L-Mature Language\r","DISASTER_ALERT_STATUS":null,"ASSIGNMENT_GRADE":"NA","COMPRESSION_STATUS":"compressed","CLOCK_SEGMENTS":"11","DEFINITION_FORMAT_TYPE":"HD","ALTERED_FILM":null,"PARENTAL_RATING":"TVPG","RL_ASSET_ID":"162347","SCHEDULE_BLOCK":"02:30:00.000","TITLE":"WarGames: 1983","RLA_RL_ASSET_ID":"RLA162347"},"EDIT":{"SEGMENT":[{"GRAPHIC_DESCRIPTION":null,"GFX_POSITION":null,"GRAPHIC_TI":null,"GRAPHIC_TO":null,"SEGMENT_NUMBER":null},{"GRAPHIC_DESCRIPTION":"OPENING TITLES","GFX_POSITION":"FULL","GRAPHIC_TI":"01:00:00","GRAPHIC_TO":"01:00:31","SEGMENT_NUMBER":"1"},{"GRAPHIC_DESCRIPTION":"Notes; Signs; Opening Credits; Computer gfx","GFX_POSITION":"FULL","GRAPHIC_TI":"01:03:30","GRAPHIC_TO":"01:09:16","SEGMENT_NUMBER":"1.1"},{"GRAPHIC_DESCRIPTION":"NOTES","GFX_POSITION":"FULL","GRAPHIC_TI":"01:17:35","GRAPHIC_TO":"01:17:39","SEGMENT_NUMBER":"1.2"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:35:18","GRAPHIC_TO":"02:39:22","SEGMENT_NUMBER":"10"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:40:48","GRAPHIC_TO":"02:41:23","SEGMENT_NUMBER":"10.1"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:42:01","GRAPHIC_TO":"02:48:40","SEGMENT_NUMBER":"11"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:20:22","GRAPHIC_TO":"01:21:57","SEGMENT_NUMBER":"2"},{"GRAPHIC_DESCRIPTION":"Brochure","GFX_POSITION":"FULL","GRAPHIC_TI":"01:23:07","GRAPHIC_TO":"01:23:24","SEGMENT_NUMBER":"2.1"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:24:47","GRAPHIC_TO":"01:30:05","SEGMENT_NUMBER":"2.2"},{"GRAPHIC_DESCRIPTION":"Book Cover; Computer GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:33:26","GRAPHIC_TO":"01:34:45","SEGMENT_NUMBER":"3"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:38:05","GRAPHIC_TO":"01:44:29","SEGMENT_NUMBER":"3.1"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:48:09","GRAPHIC_TO":"01:49:53","SEGMENT_NUMBER":"4"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:51:52","GRAPHIC_TO":"01:51:57","SEGMENT_NUMBER":"4.1"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"01:59:55","GRAPHIC_TO":"02:01:18","SEGMENT_NUMBER":"5"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:09:37","GRAPHIC_TO":"02:09:46","SEGMENT_NUMBER":"6"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:13:34","GRAPHIC_TO":"02:14:10","SEGMENT_NUMBER":"7"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:18:20","GRAPHIC_TO":"02:19:58","SEGMENT_NUMBER":"8"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:24:11","GRAPHIC_TO":"02:24:54","SEGMENT_NUMBER":"8.1"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX; Signs","GFX_POSITION":"FULL","GRAPHIC_TI":"02:28:43","GRAPHIC_TO":"02:30:11","SEGMENT_NUMBER":"9"},{"GRAPHIC_DESCRIPTION":"COMPUTER GFX","GFX_POSITION":"FULL","GRAPHIC_TI":"02:32:07","GRAPHIC_TO":"02:32:23","SEGMENT_NUMBER":"9.1"}]},"GRAPHICS_MARKUP_STATUS":"Requires Verification","VERSION_TYPE":"FTXTC","PARENT_TITLES":{"THEATRICAL_RUN_TIME":"01:54:00","MPAA_RATING":null},"ID":"FD032662","SEGMENT_MARKUP_STATUS":"Requires Verification","S_P_STATUS":"S&amp;P Review Complete"}]}}</NS1:payload>
+    <NS1:response>
+      <Data>
+        <SOURCE_SYSTEM>
+          <CMS>
+            <Item>
+              <DATA_MIGRATION>
+                <CREDITS />
+                <ORIGINAL_CUT>TV Edited</ORIGINAL_CUT>
+                <SECONDARY_CUT />
+                <ALT_LANGUAGE />
+                <DATA_MIGRATION_ROWID>13868.0</DATA_MIGRATION_ROWID>
+                <CENSOR_STATUS>Censored</CENSOR_STATUS>
+              </DATA_MIGRATION>
+              <BT>
+                <MAIN_TABLE>
+                  <Item>
+                    <FINAL_AUDIO_CONFIG_CH09 />
+                    <SEGMENTS />
+                    <FINAL_AUDIO_CONFIG_CH11 />
+                    <FINAL_AUDIO_CONFIG_CH01 />
+                    <ID />
+                    <FINAL_AUDIO_CONFIG_CH03 />
+                    <FINAL_AUDIO_CONFIG_CH05 />
+                    <MATERIAL_ID />
+                    <FRAME_RATE />
+                    <FINAL_AUDIO_CONFIG_CH07 />
+                  </Item>
+                  <Item>
+                    <FINAL_AUDIO_CONFIG_CH09 />
+                    <SEGMENTS>
+                      <SEGMENT>
+                        <Item>
+                          <NUMBER>1.0</NUMBER>
+                          <TC_IN>00;59;59;20</TC_IN>
+                          <TC_OUT>01;19;05;01</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>2.0</NUMBER>
+                          <TC_IN>01;19;05;11</TC_IN>
+                          <TC_OUT>01;32;44;27</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>3.0</NUMBER>
+                          <TC_IN>01;32;45;07</TC_IN>
+                          <TC_OUT>01;44;48;23</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>4.0</NUMBER>
+                          <TC_IN>01;44;49;03</TC_IN>
+                          <TC_OUT>01;53;59;12</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>5.0</NUMBER>
+                          <TC_IN>01;53;59;22</TC_IN>
+                          <TC_OUT>02;00;59;18</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>6.0</NUMBER>
+                          <TC_IN>02;00;59;28</TC_IN>
+                          <TC_OUT>02;08;36;03</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>7.0</NUMBER>
+                          <TC_IN>02;08;36;13</TC_IN>
+                          <TC_OUT>02;16;25;17</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>8.0</NUMBER>
+                          <TC_IN>02;16;25;27</TC_IN>
+                          <TC_OUT>02;25;17;08</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>9.0</NUMBER>
+                          <TC_IN>02;25;17;18</TC_IN>
+                          <TC_OUT>02;32;28;16</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>10.0</NUMBER>
+                          <TC_IN>02;32;28;26</TC_IN>
+                          <TC_OUT>02;39;16;12</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER>11.0</NUMBER>
+                          <TC_IN>02;39;16;22</TC_IN>
+                          <TC_OUT>02;47;09;06</TC_OUT>
+                        </Item>
+                        <Item>
+                          <NUMBER />
+                          <TC_IN>02;39;16;03</TC_IN>
+                          <TC_OUT />
+                        </Item>
+                      </SEGMENT>
+                    </SEGMENTS>
+                    <FINAL_AUDIO_CONFIG_CH11 />
+                    <FINAL_AUDIO_CONFIG_CH01>ST-Full Mix Left</FINAL_AUDIO_CONFIG_CH01>
+                    <ID>ADAM000725</ID>
+                    <FINAL_AUDIO_CONFIG_CH03>ST-Full Mix Left</FINAL_AUDIO_CONFIG_CH03>
+                    <FINAL_AUDIO_CONFIG_CH05 />
+                    <MATERIAL_ID>AH019685</MATERIAL_ID>
+                    <FRAME_RATE>2997</FRAME_RATE>
+                    <FINAL_AUDIO_CONFIG_CH07 />
+                  </Item>
+                </MAIN_TABLE>
+              </BT>
+              <RL>
+                <DATA>
+                  <Item>
+                    <VENDORID>RLC8199</VENDORID>
+                    <ID_ASSET>162347</ID_ASSET>
+                    <PRODUCT_INTENTION>AMC</PRODUCT_INTENTION>
+                    <VENDOR>MGM Domestic Television Distribution, LLC</VENDOR>
+                  </Item>
+                </DATA>
+              </RL>
+              <TAPES>
+                <TAPE>
+                  <Item>
+                    <SUBTITLES />
+                  </Item>
+                  <Item>
+                    <SUBTITLES>NO</SUBTITLES>
+                  </Item>
+                </TAPE>
+              </TAPES>
+              <TITLE_VERSIONS>
+                <TOTAL_DURATION>01:47:03.000</TOTAL_DURATION>
+                <RATINGS_ISSUES>L-Mature Language
+</RATINGS_ISSUES>
+                <DISASTER_ALERT_STATUS />
+                <ASSIGNMENT_GRADE>NA</ASSIGNMENT_GRADE>
+                <COMPRESSION_STATUS>compressed</COMPRESSION_STATUS>
+                <CLOCK_SEGMENTS>11</CLOCK_SEGMENTS>
+                <DEFINITION_FORMAT_TYPE>HD</DEFINITION_FORMAT_TYPE>
+                <ALTERED_FILM />
+                <PARENTAL_RATING>TVPG</PARENTAL_RATING>
+                <RL_ASSET_ID>162347</RL_ASSET_ID>
+                <SCHEDULE_BLOCK>02:30:00.000</SCHEDULE_BLOCK>
+                <TITLE>WarGames: 1983</TITLE>
+                <RLA_RL_ASSET_ID>RLA162347</RLA_RL_ASSET_ID>
+              </TITLE_VERSIONS>
+              <EDIT>
+                <SEGMENT>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION />
+                    <GFX_POSITION />
+                    <GRAPHIC_TI />
+                    <GRAPHIC_TO />
+                    <SEGMENT_NUMBER />
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>OPENING TITLES</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:00:00</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:00:31</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>Notes; Signs; Opening Credits; Computer gfx</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:03:30</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:09:16</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>1.1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>NOTES</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:17:35</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:17:39</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>1.2</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:35:18</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:39:22</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>10</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:40:48</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:41:23</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>10.1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:42:01</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:48:40</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>11</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:20:22</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:21:57</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>2</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>Brochure</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:23:07</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:23:24</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>2.1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:24:47</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:30:05</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>2.2</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>Book Cover; Computer GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:33:26</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:34:45</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>3</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:38:05</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:44:29</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>3.1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:48:09</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:49:53</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>4</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:51:52</GRAPHIC_TI>
+                    <GRAPHIC_TO>01:51:57</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>4.1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>01:59:55</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:01:18</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>5</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:09:37</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:09:46</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>6</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:13:34</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:14:10</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>7</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:18:20</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:19:58</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>8</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:24:11</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:24:54</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>8.1</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX; Signs</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:28:43</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:30:11</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>9</SEGMENT_NUMBER>
+                  </Item>
+                  <Item>
+                    <GRAPHIC_DESCRIPTION>COMPUTER GFX</GRAPHIC_DESCRIPTION>
+                    <GFX_POSITION>FULL</GFX_POSITION>
+                    <GRAPHIC_TI>02:32:07</GRAPHIC_TI>
+                    <GRAPHIC_TO>02:32:23</GRAPHIC_TO>
+                    <SEGMENT_NUMBER>9.1</SEGMENT_NUMBER>
+                  </Item>
+                </SEGMENT>
+              </EDIT>
+              <GRAPHICS_MARKUP_STATUS>Requires Verification</GRAPHICS_MARKUP_STATUS>
+              <VERSION_TYPE>FTXTC</VERSION_TYPE>
+              <PARENT_TITLES>
+                <THEATRICAL_RUN_TIME>01:54:00</THEATRICAL_RUN_TIME>
+                <MPAA_RATING />
+              </PARENT_TITLES>
+              <ID>FD032662</ID>
+              <SEGMENT_MARKUP_STATUS>Requires Verification</SEGMENT_MARKUP_STATUS>
+              <S_P_STATUS>S&amp;P Review Complete</S_P_STATUS>
+            </Item>
+          </CMS>
+        </SOURCE_SYSTEM>
+      </Data>
+    </NS1:response>
+    <NS1:response name="AMCN.EVENT.WOP.CREATE.VERSIONS.CMS">
+      <ES_PRODUCT prd_external_reference="RLA162347" p_product_type="Program" internalEpisodeNumberInformation="" episodeNumber="">
+        <type>
+          <ESP_PRODUCTTYPE name="Movie" />
+        </type>
+        <p_product_expectedduration>
+          <ESP_TIMEDURATION duration="00:00.000" durationinseconds="0" />
+        </p_product_expectedduration>
+        <p_program_nature>
+          <ESP_NATURE name="Acquired" />
+        </p_program_nature>
+        <p_product_contents>
+          <ESP_CONTENTS name="Movie" />
+        </p_product_contents>
+        <p_product_intention>
+          <ESP_INTENTION name="AMC" />
+        </p_product_intention>
+        <p_product_origin>
+          <ESP_ORIGIN name="Licensed" />
+        </p_product_origin>
+        <p_product_productionmode />
+        <p_episode_series />
+        <p_product_producttitles>
+          <ES_PRODUCTTITLE pt_isbroadcasttitle="true" pt_title="WarGames" pt_isalternativetitle="true" />
+        </p_product_producttitles>
+        <boTargetGroup>
+          <ESP_TARGETGROUP name="Non Restricted (NR)" />
+        </boTargetGroup>
+        <p_program_productionfirms>
+          <ES_FIRM f_name="MGM Domestic Television Distribution, LLC" firm_external_reference="RLC8199">
+            <f_type>
+              <ESP_FIRMTYPE name="Distributor" />
+            </f_type>
+          </ES_FIRM>
+        </p_program_productionfirms>
+        <p_product_castmembers>
+          <ES_CASTPARTICIPANT cm_role="">
+            <cm_person>
+              <ES_PERSON pe_name="Badham" pe_fullname="John Badham" pe_firstname="John" />
+            </cm_person>
+            <cm_type>
+              <ESP_CASTTYPE name="Director" />
+            </cm_type>
+          </ES_CASTPARTICIPANT>
+        </p_product_castmembers>
+      </ES_PRODUCT>
+    </NS1:response>
+    <NS1:response name="AMCN.WOP.GET.PRODUCT.DATA.CMS">
+      <response>
+        <statusCode>0</statusCode>
+        <message>OK</message>
+        <concept>Product</concept>
+        <externalReference>RLA162347TV-CN</externalReference>
+      </response>
+    </NS1:response>
+    <NS1:response>
+      <ES_PRODUCT prd_external_reference="RLA162347TV-CN" legacySystem="CMS" tempSerialNumber="CMS-A" legacy="true" p_product_type="Program" internalEpisodeNumberInformation="" episodeNumber="" alteredFilm="" sAndPStatus="S&amp;P Review Complete">
+        <type>
+          <ESP_PRODUCTTYPE name="Movie" />
+        </type>
+        <p_product_contents>
+          <ESP_CONTENTS name="Movie" />
+        </p_product_contents>
+        <p_product_origin>
+          <ESP_ORIGIN name="Licensed" />
+        </p_product_origin>
+        <p_program_productionfirms>
+          <ES_FIRM firm_external_reference="RLC8199" f_name="MGM Domestic Television Distribution, LLC">
+            <f_type>
+              <ESP_FIRMTYPE name="Distributor" />
+            </f_type>
+          </ES_FIRM>
+        </p_program_productionfirms>
+        <p_product_producttitles>
+          <ES_PRODUCTTITLE pt_title="WarGames" pt_isbroadcasttitle="true" pt_isalternativetitle="true" />
+        </p_product_producttitles>
+        <p_product_expectedduration>
+          <ESP_TIMEDURATION duration="00:00.000" durationinseconds="0" />
+        </p_product_expectedduration>
+        <p_program_nature>
+          <ESP_NATURE name="Acquired" />
+        </p_program_nature>
+        <p_product_productversion>
+          <ESP_PRODUCTVERSION name="TV Edited-Censored" />
+        </p_product_productversion>
+        <p_product_intention>
+          <ESP_INTENTION name="AMC" />
+        </p_product_intention>
+        <p_product_regionalcertifications>
+          <ES_WONREGIONALPROGRAMCERTIFICATION>
+            <rpc_certification>
+              <ESP_PROGRAMCERTIFICATION name="TV-PG L" />
+            </rpc_certification>
+            <regulator>
+              <ESP_REGULATOR name="TV Rating" />
+            </regulator>
+          </ES_WONREGIONALPROGRAMCERTIFICATION>
+        </p_product_regionalcertifications>
+        <scheduleBlock>
+          <ESP_TIMEDURATION duration="150:00.000" />
+        </scheduleBlock>
+        <p_product_masterproduct>
+          <ES_PRODUCT prd_external_reference="RLA162347" />
+        </p_product_masterproduct>
+      </ES_PRODUCT>
+    </NS1:response>
+    <NS1:response name="AMCN.EVENT.WOP.MP.PRODUCT.DATA.CMS">
+      <ES_PRODUCT prd_external_reference="RLA162347TV-CN" p_product_type="Program" internalEpisodeNumberInformation="" episodeNumber="" p_product_title="WarGames" p_product_productcode="" p_product_yearofproductionfrom="" p_series_year="" distributorEpisodeNumberInformation="" oid="33342122527" alteredFilm="" tXComments="" hasProductPlacement="false" legacy="true" legacySystem="CMS" doNotIngest="false" tempSerialNumber="CMS-A">
+        <p_program_nature>
+          <ESP_NATURE name="Acquired" />
+        </p_program_nature>
+        <p_product_intention>
+          <ESP_INTENTION name="AMC" />
+        </p_product_intention>
+        <p_product_productionmode />
+        <p_program_productionfirms>
+          <ES_FIRM firm_external_reference="RLC8199" f_name="MGM Domestic Television Distribution, LLC">
+            <f_type>
+              <ESP_FIRMTYPE name="Distributor" />
+            </f_type>
+          </ES_FIRM>
+        </p_program_productionfirms>
+        <p_product_expectedduration>
+          <ESP_TIMEDURATION duration="00:00.000" durationinseconds="0" />
+        </p_product_expectedduration>
+        <castParticipants />
+        <type>
+          <ESP_PRODUCTTYPE name="Movie" />
+        </type>
+        <masterProgram>
+          <ES_PRODUCT prd_external_reference="RLA162347" p_product_type="Program" internalEpisodeNumberInformation="" episodeNumber="" p_product_title="WarGames" p_product_productcode="RLA162347" p_product_yearofproductionfrom="1983" p_series_year="" distributorEpisodeNumberInformation="" p_product_yearofproductiontill="1983" copyright="">
+            <p_product_productversion>
+              <ESP_PRODUCTVERSION name="Master" />
+            </p_product_productversion>
+            <p_product_contents>
+              <ESP_CONTENTS name="Movie" />
+            </p_product_contents>
+            <p_program_nature>
+              <ESP_NATURE name="Acquired" />
+            </p_program_nature>
+            <p_product_intention>
+              <ESP_INTENTION name="AMC" />
+            </p_product_intention>
+            <p_product_productionmode />
+            <p_product_origin>
+              <ESP_ORIGIN name="Licensed" />
+            </p_product_origin>
+            <p_product_producttitles>
+              <ES_PRODUCTTITLE pt_isalternativetitle="true" pt_isbroadcasttitle="true" pt_title="WarGames" identificationDisplayString="WarGames">
+                <pt_type>
+                  <ESP_PRODUCTTITLETYPE name="OriginalTitle" lot_external_reference="OriginalTitle" indentedName="    OriginalTitle" />
+                </pt_type>
+              </ES_PRODUCTTITLE>
+            </p_product_producttitles>
+            <p_program_productionfirms>
+              <ES_FIRM firm_external_reference="RLC8199" f_name="MGM Domestic Television Distribution, LLC">
+                <f_type>
+                  <ESP_FIRMTYPE name="Distributor" />
+                </f_type>
+              </ES_FIRM>
+            </p_program_productionfirms>
+            <p_product_expectedduration>
+              <ESP_TIMEDURATION duration="00:00.000" durationinseconds="0" />
+            </p_product_expectedduration>
+            <castParticipants>
+              <ES_CASTPARTICIPANT external_reference="35190.RLA162347" cm_role="">
+                <cm_person>
+                  <ES_PERSON pe_firstname="John" pe_name="Badham" per_external_reference="35190" />
+                </cm_person>
+                <cm_type>
+                  <ESP_CASTTYPE name="Director" />
+                </cm_type>
+              </ES_CASTPARTICIPANT>
+            </castParticipants>
+            <type>
+              <ESP_PRODUCTTYPE name="Movie" />
+            </type>
+            <p_episode_series />
+            <p_product_programpressinformationrecords />
+            <p_product_countryofsubject />
+            <productOriginalLanguage />
+            <p_product_status />
+            <parentSerie />
+            <overwriteSecurityStatus>
+              <ESP_PRODUCTSECURITYSTATUS name="Open" />
+            </overwriteSecurityStatus>
+            <calculatedSecurityStatus>
+              <ESP_PRODUCTSECURITYSTATUS name="Open" />
+            </calculatedSecurityStatus>
+            <premiereDate />
+            <programChannelGroupGenresLink />
+            <p_product_department />
+            <p_product_defaulttitle>
+              <ES_PRODUCTTITLE>
+                <pt_type>
+                  <ESP_PRODUCTTITLETYPE name="OriginalTitle" />
+                </pt_type>
+              </ES_PRODUCTTITLE>
+            </p_product_defaulttitle>
+            <boTargetGroup>
+              <ESP_TARGETGROUP name="Non Restricted (NR)" apiReference="NR" usercode="NR" />
+            </boTargetGroup>
+            <p_product_castmembers>
+              <ES_CASTPARTICIPANT cm_ordernr="1" cm_role="">
+                <cm_person>
+                  <ES_PERSON pe_fullname="John Badham" pe_firstname="John" pe_name="Badham" />
+                </cm_person>
+                <cm_type>
+                  <ESP_CASTTYPE name="Director" />
+                </cm_type>
+              </ES_CASTPARTICIPANT>
+            </p_product_castmembers>
+          </ES_PRODUCT>
+        </masterProgram>
+        <p_episode_series />
+        <p_product_programpressinformationrecords />
+        <p_product_productversion>
+          <ESP_PRODUCTVERSION name="TV Edited-Censored" usercode="TV-CN" />
+        </p_product_productversion>
+        <p_product_department />
+        <p_product_countryofsubject />
+        <p_product_contents>
+          <ESP_CONTENTS name="Movie" />
+        </p_product_contents>
+        <overwriteSecurityStatus />
+        <calculatedSecurityStatus>
+          <ESP_PRODUCTSECURITYSTATUS name="Super Secure" />
+        </calculatedSecurityStatus>
+        <premiereDate />
+        <programChannelGroupGenresLink />
+        <programChannelGroupFormatTemplate />
+        <p_product_regionalcertifications>
+          <ES_WONREGIONALPROGRAMCERTIFICATION>
+            <rpc_certification>
+              <ESP_PROGRAMCERTIFICATION name="TV-PG L" />
+            </rpc_certification>
+            <regulator>
+              <ESP_REGULATOR name="TV Rating" />
+            </regulator>
+            <rpc_complianceInformations />
+          </ES_WONREGIONALPROGRAMCERTIFICATION>
+        </p_product_regionalcertifications>
+        <productPlacementInfo />
+        <scheduleBlock>
+          <ESP_TIMEDURATION duration="150:00.000" durationinseconds="9000" />
+        </scheduleBlock>
+        <boTargetGroup />
+        <p_product_castmembers />
+        <mediaAssets />
+        <productOriginalLanguage />
+        <usermodified>
+          <ES_USER basicOsAuthentication="false" u_name="PSI " u_username="restRightsLogic2" external_reference="32859533156" identificationDisplayString="PSI " traceSQL="false" u_osauthentication="false" />
+        </usermodified>
+        <attachedFiles />
+        <p_product_origin>
+          <ESP_ORIGIN name="Licensed" />
+        </p_product_origin>
+        <p_product_masterproduct>
+          <ES_PRODUCT>
+            <p_product_productversions>
+              <ES_PRODUCT prd_external_reference="RLA162347" />
+              <ES_PRODUCT prd_external_reference="RLA162347TV-CN" />
+            </p_product_productversions>
+          </ES_PRODUCT>
+        </p_product_masterproduct>
+      </ES_PRODUCT>
+    </NS1:response>
+    <NS1:request operation="Upsert">
+      <xyt:arguments xmlns:NS1="http://schemahost.amcnetworks.com:8080/amcnesb/schemas" xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:xyt="urn:xytechsystems.com/XytechAPI">
+        <d4p1:APISaveArgument xmlns:d4p1="http://schemas.datacontract.org/2004/07/Xytech.MP.API" xmlns:tdc="http://schemas.datacontract.org/2004/07/Xytech.MP.API/Typed">
+          <d4p1:ChangeSetContainer>
+            <bdc:DataSet xmlns:bdc="http://schemas.datacontract.org/2004/07/Xytech.MP.API" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tdc:LibTitleDataSet">
+              <tdc:lib_title_Rows>
+                <tdc:lib_title_Row>
+                  <tdc:key>
+                    <tdc:external_key>RLA162347</tdc:external_key>
+                  </tdc:key>
+                  <tdc:external_key>RLA162347</tdc:external_key>
+                  <tdc:TITLE_CUST_field_1>Acquired</tdc:TITLE_CUST_field_1>
+                  <tdc:TITLE_CUST_field_29>AMC</tdc:TITLE_CUST_field_29>
+                  <tdc:TITLE_CUST_field_35>WarGames</tdc:TITLE_CUST_field_35>
+                  <tdc:TITLE_CUST_field_40>Non Restricted (NR)</tdc:TITLE_CUST_field_40>
+                  <tdc:TITLE_CUST_field_72>
+                    <tdc:external_key>RLC8199</tdc:external_key>
+                  </tdc:TITLE_CUST_field_72>
+                  <tdc:TITLE_CUST_field_60>000000</tdc:TITLE_CUST_field_60>
+                  <tdc:TITLE_CUST_field_83>0</tdc:TITLE_CUST_field_83>
+                  <tdc:TITLE_CUST_field_86>1983</tdc:TITLE_CUST_field_86>
+                  <tdc:TITLE_CUST_field_37>Movie</tdc:TITLE_CUST_field_37>
+                  <tdc:TITLE_CUST_field_87>1983</tdc:TITLE_CUST_field_87>
+                  <tdc:TITLE_CUST_field_38 />
+                  <tdc:episode_sequence>
+                    <tdc:episode_sequence_desc>Open</tdc:episode_sequence_desc>
+                  </tdc:episode_sequence>
+                  <tdc:title_control_no>
+                    <tdc:title_control_desc>Open</tdc:title_control_desc>
+                  </tdc:title_control_no>
+                  <tdc:title>WarGames</tdc:title>
+                  <tdc:title_type_no>
+                    <tdc:title_type_desc>Episode/Theatrical</tdc:title_type_desc>
+                  </tdc:title_type_no>
+                </tdc:lib_title_Row>
+              </tdc:lib_title_Rows>
+            </bdc:DataSet>
+          </d4p1:ChangeSetContainer>
+          <d4p1:ClassName>LibTitle</d4p1:ClassName>
+          <d4p1:Key>RLA162347</d4p1:Key>
+          <d4p1:KeyName>external_key</d4p1:KeyName>
+          <d4p1:WantNewDoc>false</d4p1:WantNewDoc>
+        </d4p1:APISaveArgument>
+        <d4p1:APISaveArgument xmlns:d4p1="http://schemas.datacontract.org/2004/07/Xytech.MP.API" xmlns:tdc="http://schemas.datacontract.org/2004/07/Xytech.MP.API/Typed">
+          <d4p1:ChangeSetContainer>
+            <bdc:DataSet xmlns:bdc="http://schemas.datacontract.org/2004/07/Xytech.MP.API" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="tdc:LibTitleDataSet">
+              <tdc:lib_title_Rows>
+                <tdc:lib_title_Row>
+                  <tdc:key>
+                    <tdc:external_key>RLA162347TV-CN</tdc:external_key>
+                  </tdc:key>
+                  <tdc:external_key>RLA162347TV-CN</tdc:external_key>
+                  <tdc:TITLE_CUST_field_1>Acquired</tdc:TITLE_CUST_field_1>
+                  <tdc:TITLE_CUST_field_29>AMC</tdc:TITLE_CUST_field_29>
+                  <tdc:TITLE_CUST_field_35>WarGames</tdc:TITLE_CUST_field_35>
+                  <tdc:TITLE_CUST_field_72>
+                    <tdc:external_key>RLC8199</tdc:external_key>
+                  </tdc:TITLE_CUST_field_72>
+                  <tdc:TITLE_CUST_field_60>000000</tdc:TITLE_CUST_field_60>
+                  <tdc:TITLE_CUST_field_83>0</tdc:TITLE_CUST_field_83>
+                  <tdc:TITLE_CUST_field_37>Movie</tdc:TITLE_CUST_field_37>
+                  <tdc:TITLE_CUST_field_6>false</tdc:TITLE_CUST_field_6>
+                  <tdc:TITLE_CUST_field_26>023000</tdc:TITLE_CUST_field_26>
+                  <tdc:TITLE_CUST_field_38 />
+                  <tdc:TITLE_CUST_field_31>RLA162347</tdc:TITLE_CUST_field_31>
+                  <tdc:TITLE_CUST_field_48 />
+                  <tdc:TITLE_CUST_field_55>TV-CN</tdc:TITLE_CUST_field_55>
+                  <tdc:episode_sequence>
+                    <tdc:episode_sequence_desc>Super Secure</tdc:episode_sequence_desc>
+                  </tdc:episode_sequence>
+                  <tdc:title_control_no>
+                    <tdc:title_control_desc>Super Secure</tdc:title_control_desc>
+                  </tdc:title_control_no>
+                  <tdc:title>WarGames</tdc:title>
+                  <tdc:title_type_no>
+                    <tdc:title_type_desc>Episode Version</tdc:title_type_desc>
+                  </tdc:title_type_no>
+                </tdc:lib_title_Row>
+              </tdc:lib_title_Rows>
+            </bdc:DataSet>
+          </d4p1:ChangeSetContainer>
+          <d4p1:ClassName>LibTitle</d4p1:ClassName>
+          <d4p1:Key>RLA162347TV-CN</d4p1:Key>
+          <d4p1:KeyName>external_key</d4p1:KeyName>
+          <d4p1:WantNewDoc>false</d4p1:WantNewDoc>
+        </d4p1:APISaveArgument>
+      </xyt:arguments>
+    </NS1:request>
+  </NS1:body>
+</NS1:root>

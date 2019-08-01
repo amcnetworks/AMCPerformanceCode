@@ -1,0 +1,494 @@
+2018-08-30 18:10:43,675 DEBUG [main] BooleanConverter:336 - Setting default value: false
+2018-08-30 18:10:43,679 DEBUG [main] BooleanConverter:127 - Converting 'Boolean' value 'false' to type 'Boolean'
+2018-08-30 18:10:43,679 DEBUG [main] BooleanConverter:149 -     No conversion required, value is already a Boolean
+2018-08-30 18:10:43,684 DEBUG [main] ByteConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,685 DEBUG [main] ByteConverter:127 - Converting 'Integer' value '0' to type 'Byte'
+2018-08-30 18:10:43,685 DEBUG [main] ByteConverter:158 -     Converted to Byte value '0'
+2018-08-30 18:10:43,686 DEBUG [main] CharacterConverter:336 - Setting default value:  
+2018-08-30 18:10:43,686 DEBUG [main] CharacterConverter:127 - Converting 'Character' value ' ' to type 'Character'
+2018-08-30 18:10:43,687 DEBUG [main] CharacterConverter:149 -     No conversion required, value is already a Character
+2018-08-30 18:10:43,688 DEBUG [main] DoubleConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,688 DEBUG [main] DoubleConverter:127 - Converting 'Integer' value '0' to type 'Double'
+2018-08-30 18:10:43,688 DEBUG [main] DoubleConverter:158 -     Converted to Double value '0.0'
+2018-08-30 18:10:43,689 DEBUG [main] FloatConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,690 DEBUG [main] FloatConverter:127 - Converting 'Integer' value '0' to type 'Float'
+2018-08-30 18:10:43,690 DEBUG [main] FloatConverter:158 -     Converted to Float value '0.0'
+2018-08-30 18:10:43,691 DEBUG [main] IntegerConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,692 DEBUG [main] IntegerConverter:127 - Converting 'Integer' value '0' to type 'Integer'
+2018-08-30 18:10:43,692 DEBUG [main] IntegerConverter:149 -     No conversion required, value is already a Integer
+2018-08-30 18:10:43,693 DEBUG [main] LongConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,693 DEBUG [main] LongConverter:127 - Converting 'Integer' value '0' to type 'Long'
+2018-08-30 18:10:43,693 DEBUG [main] LongConverter:158 -     Converted to Long value '0'
+2018-08-30 18:10:43,695 DEBUG [main] ShortConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,696 DEBUG [main] ShortConverter:127 - Converting 'Integer' value '0' to type 'Short'
+2018-08-30 18:10:43,696 DEBUG [main] ShortConverter:158 -     Converted to Short value '0'
+2018-08-30 18:10:43,699 DEBUG [main] BigDecimalConverter:336 - Setting default value: 0.0
+2018-08-30 18:10:43,699 DEBUG [main] BigDecimalConverter:127 - Converting 'BigDecimal' value '0.0' to type 'BigDecimal'
+2018-08-30 18:10:43,699 DEBUG [main] BigDecimalConverter:149 -     No conversion required, value is already a BigDecimal
+2018-08-30 18:10:43,700 DEBUG [main] BigIntegerConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,700 DEBUG [main] BigIntegerConverter:127 - Converting 'BigInteger' value '0' to type 'BigInteger'
+2018-08-30 18:10:43,701 DEBUG [main] BigIntegerConverter:149 -     No conversion required, value is already a BigInteger
+2018-08-30 18:10:43,701 DEBUG [main] BooleanConverter:336 - Setting default value: false
+2018-08-30 18:10:43,701 DEBUG [main] BooleanConverter:127 - Converting 'Boolean' value 'false' to type 'Boolean'
+2018-08-30 18:10:43,701 DEBUG [main] BooleanConverter:149 -     No conversion required, value is already a Boolean
+2018-08-30 18:10:43,701 DEBUG [main] ByteConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,701 DEBUG [main] ByteConverter:127 - Converting 'Integer' value '0' to type 'Byte'
+2018-08-30 18:10:43,702 DEBUG [main] ByteConverter:158 -     Converted to Byte value '0'
+2018-08-30 18:10:43,702 DEBUG [main] CharacterConverter:336 - Setting default value:  
+2018-08-30 18:10:43,703 DEBUG [main] CharacterConverter:127 - Converting 'Character' value ' ' to type 'Character'
+2018-08-30 18:10:43,703 DEBUG [main] CharacterConverter:149 -     No conversion required, value is already a Character
+2018-08-30 18:10:43,703 DEBUG [main] DoubleConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,703 DEBUG [main] DoubleConverter:127 - Converting 'Integer' value '0' to type 'Double'
+2018-08-30 18:10:43,703 DEBUG [main] DoubleConverter:158 -     Converted to Double value '0.0'
+2018-08-30 18:10:43,703 DEBUG [main] FloatConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,704 DEBUG [main] FloatConverter:127 - Converting 'Integer' value '0' to type 'Float'
+2018-08-30 18:10:43,704 DEBUG [main] FloatConverter:158 -     Converted to Float value '0.0'
+2018-08-30 18:10:43,704 DEBUG [main] IntegerConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,704 DEBUG [main] IntegerConverter:127 - Converting 'Integer' value '0' to type 'Integer'
+2018-08-30 18:10:43,705 DEBUG [main] IntegerConverter:149 -     No conversion required, value is already a Integer
+2018-08-30 18:10:43,705 DEBUG [main] LongConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,705 DEBUG [main] LongConverter:127 - Converting 'Integer' value '0' to type 'Long'
+2018-08-30 18:10:43,705 DEBUG [main] LongConverter:158 -     Converted to Long value '0'
+2018-08-30 18:10:43,706 DEBUG [main] ShortConverter:336 - Setting default value: 0
+2018-08-30 18:10:43,706 DEBUG [main] ShortConverter:127 - Converting 'Integer' value '0' to type 'Short'
+2018-08-30 18:10:43,706 DEBUG [main] ShortConverter:158 -     Converted to Short value '0'
+2018-08-30 18:10:43,707 DEBUG [main] StringConverter:336 - Setting default value: 
+2018-08-30 18:10:43,708 DEBUG [main] StringConverter:127 - Converting 'String' value '' to type 'String'
+2018-08-30 18:10:43,722 DEBUG [main] ArrayConverter:336 - Setting default value: [Z@63dc3420
+2018-08-30 18:10:43,723 DEBUG [main] ArrayConverter:127 - Converting 'boolean[]' value '[Z@63dc3420' to type 'boolean[]'
+2018-08-30 18:10:43,723 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a boolean[]
+2018-08-30 18:10:43,723 DEBUG [main] ArrayConverter:336 - Setting default value: [B@145a821d
+2018-08-30 18:10:43,724 DEBUG [main] ArrayConverter:127 - Converting 'byte[]' value '[B@145a821d' to type 'byte[]'
+2018-08-30 18:10:43,725 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a byte[]
+2018-08-30 18:10:43,725 DEBUG [main] ArrayConverter:336 - Setting default value: [C@6ed51944
+2018-08-30 18:10:43,725 DEBUG [main] ArrayConverter:127 - Converting 'char[]' value '[C@6ed51944' to type 'char[]'
+2018-08-30 18:10:43,726 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a char[]
+2018-08-30 18:10:43,726 DEBUG [main] ArrayConverter:336 - Setting default value: [D@20c3b34b
+2018-08-30 18:10:43,726 DEBUG [main] ArrayConverter:127 - Converting 'double[]' value '[D@20c3b34b' to type 'double[]'
+2018-08-30 18:10:43,729 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a double[]
+2018-08-30 18:10:43,729 DEBUG [main] ArrayConverter:336 - Setting default value: [F@58e02359
+2018-08-30 18:10:43,730 DEBUG [main] ArrayConverter:127 - Converting 'float[]' value '[F@58e02359' to type 'float[]'
+2018-08-30 18:10:43,730 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a float[]
+2018-08-30 18:10:43,730 DEBUG [main] ArrayConverter:336 - Setting default value: [I@491893f8
+2018-08-30 18:10:43,734 DEBUG [main] ArrayConverter:127 - Converting 'int[]' value '[I@491893f8' to type 'int[]'
+2018-08-30 18:10:43,734 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a int[]
+2018-08-30 18:10:43,734 DEBUG [main] ArrayConverter:336 - Setting default value: [J@46e388ec
+2018-08-30 18:10:43,734 DEBUG [main] ArrayConverter:127 - Converting 'long[]' value '[J@46e388ec' to type 'long[]'
+2018-08-30 18:10:43,735 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a long[]
+2018-08-30 18:10:43,735 DEBUG [main] ArrayConverter:336 - Setting default value: [S@5efe5b25
+2018-08-30 18:10:43,735 DEBUG [main] ArrayConverter:127 - Converting 'short[]' value '[S@5efe5b25' to type 'short[]'
+2018-08-30 18:10:43,736 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a short[]
+2018-08-30 18:10:43,737 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.math.BigDecimal;@1f0e2bdc
+2018-08-30 18:10:43,737 DEBUG [main] ArrayConverter:127 - Converting 'BigDecimal[]' value '[Ljava.math.BigDecimal;@1f0e2bdc' to type 'BigDecimal[]'
+2018-08-30 18:10:43,737 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a BigDecimal[]
+2018-08-30 18:10:43,737 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.math.BigInteger;@44a93f8a
+2018-08-30 18:10:43,737 DEBUG [main] ArrayConverter:127 - Converting 'BigInteger[]' value '[Ljava.math.BigInteger;@44a93f8a' to type 'BigInteger[]'
+2018-08-30 18:10:43,737 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a BigInteger[]
+2018-08-30 18:10:43,738 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Boolean;@6c5ae8fd
+2018-08-30 18:10:43,738 DEBUG [main] ArrayConverter:127 - Converting 'Boolean[]' value '[Ljava.lang.Boolean;@6c5ae8fd' to type 'Boolean[]'
+2018-08-30 18:10:43,738 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Boolean[]
+2018-08-30 18:10:43,738 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Byte;@1aed6f0b
+2018-08-30 18:10:43,739 DEBUG [main] ArrayConverter:127 - Converting 'Byte[]' value '[Ljava.lang.Byte;@1aed6f0b' to type 'Byte[]'
+2018-08-30 18:10:43,739 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Byte[]
+2018-08-30 18:10:43,739 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Character;@134c38
+2018-08-30 18:10:43,739 DEBUG [main] ArrayConverter:127 - Converting 'Character[]' value '[Ljava.lang.Character;@134c38' to type 'Character[]'
+2018-08-30 18:10:43,739 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Character[]
+2018-08-30 18:10:43,739 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Double;@4cc7e3ad
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:127 - Converting 'Double[]' value '[Ljava.lang.Double;@4cc7e3ad' to type 'Double[]'
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Double[]
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Float;@47be41c6
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:127 - Converting 'Float[]' value '[Ljava.lang.Float;@47be41c6' to type 'Float[]'
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Float[]
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Integer;@13a268cd
+2018-08-30 18:10:43,740 DEBUG [main] ArrayConverter:127 - Converting 'Integer[]' value '[Ljava.lang.Integer;@13a268cd' to type 'Integer[]'
+2018-08-30 18:10:43,741 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Integer[]
+2018-08-30 18:10:43,741 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Long;@4ebfb045
+2018-08-30 18:10:43,741 DEBUG [main] ArrayConverter:127 - Converting 'Long[]' value '[Ljava.lang.Long;@4ebfb045' to type 'Long[]'
+2018-08-30 18:10:43,742 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Long[]
+2018-08-30 18:10:43,742 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Short;@77c692b4
+2018-08-30 18:10:43,742 DEBUG [main] ArrayConverter:127 - Converting 'Short[]' value '[Ljava.lang.Short;@77c692b4' to type 'Short[]'
+2018-08-30 18:10:43,742 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Short[]
+2018-08-30 18:10:43,742 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.String;@6caeba36
+2018-08-30 18:10:43,743 DEBUG [main] ArrayConverter:127 - Converting 'String[]' value '[Ljava.lang.String;@6caeba36' to type 'String[]'
+2018-08-30 18:10:43,743 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a String[]
+2018-08-30 18:10:43,743 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.lang.Class;@8ac512e
+2018-08-30 18:10:43,743 DEBUG [main] ArrayConverter:127 - Converting 'Class[]' value '[Ljava.lang.Class;@8ac512e' to type 'Class[]'
+2018-08-30 18:10:43,743 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Class[]
+2018-08-30 18:10:43,745 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.util.Date;@14e3d439
+2018-08-30 18:10:43,746 DEBUG [main] ArrayConverter:127 - Converting 'Date[]' value '[Ljava.util.Date;@14e3d439' to type 'Date[]'
+2018-08-30 18:10:43,746 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Date[]
+2018-08-30 18:10:43,746 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.util.Calendar;@674aa626
+2018-08-30 18:10:43,746 DEBUG [main] ArrayConverter:127 - Converting 'Calendar[]' value '[Ljava.util.Calendar;@674aa626' to type 'Calendar[]'
+2018-08-30 18:10:43,746 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a Calendar[]
+2018-08-30 18:10:43,747 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.io.File;@47198524
+2018-08-30 18:10:43,747 DEBUG [main] ArrayConverter:127 - Converting 'java.io.File[]' value '[Ljava.io.File;@47198524' to type 'java.io.File[]'
+2018-08-30 18:10:43,747 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.io.File[]
+2018-08-30 18:10:43,747 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.sql.Date;@55e91e61
+2018-08-30 18:10:43,747 DEBUG [main] ArrayConverter:127 - Converting 'java.sql.Date[]' value '[Ljava.sql.Date;@55e91e61' to type 'java.sql.Date[]'
+2018-08-30 18:10:43,748 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.sql.Date[]
+2018-08-30 18:10:43,748 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.sql.Time;@1d55dd21
+2018-08-30 18:10:43,749 DEBUG [main] ArrayConverter:127 - Converting 'java.sql.Time[]' value '[Ljava.sql.Time;@1d55dd21' to type 'java.sql.Time[]'
+2018-08-30 18:10:43,750 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.sql.Time[]
+2018-08-30 18:10:43,750 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.sql.Timestamp;@606b53a3
+2018-08-30 18:10:43,750 DEBUG [main] ArrayConverter:127 - Converting 'java.sql.Timestamp[]' value '[Ljava.sql.Timestamp;@606b53a3' to type 'java.sql.Timestamp[]'
+2018-08-30 18:10:43,750 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.sql.Timestamp[]
+2018-08-30 18:10:43,750 DEBUG [main] ArrayConverter:336 - Setting default value: [Ljava.net.URL;@37bda983
+2018-08-30 18:10:43,751 DEBUG [main] ArrayConverter:127 - Converting 'java.net.URL[]' value '[Ljava.net.URL;@37bda983' to type 'java.net.URL[]'
+2018-08-30 18:10:43,751 DEBUG [main] ArrayConverter:149 -     No conversion required, value is already a java.net.URL[]
+2018-08-30 18:10:46,035 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2018-08-30 18:10:46,050 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2018-08-30 18:10:46,053 DEBUG [main] PoolingHttpClientConnectionManager:255 - Connection request: [route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-08-30 18:10:46,081 DEBUG [main] PoolingHttpClientConnectionManager:288 - Connection leased: [id: 0][route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:46,084 DEBUG [main] MainClientExec:235 - Opening connection {}->http://rldvsvc01-awsnp.amcnetworks.com:8005
+2018-08-30 18:10:46,303 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to rldvsvc01-awsnp.amcnetworks.com/10.12.8.22:8005
+2018-08-30 18:10:46,523 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 10.6.235.203:64567<->10.12.8.22:8005
+2018-08-30 18:10:46,532 DEBUG [main] MainClientExec:256 - Executing request POST /token HTTP/1.1
+2018-08-30 18:10:46,532 DEBUG [main] MainClientExec:261 - Target auth state: UNCHALLENGED
+2018-08-30 18:10:46,534 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2018-08-30 18:10:46,540 DEBUG [main] headers:133 - http-outgoing-0 >> POST /token HTTP/1.1
+2018-08-30 18:10:46,540 DEBUG [main] headers:136 - http-outgoing-0 >> Content-Length: 61
+2018-08-30 18:10:46,543 DEBUG [main] headers:136 - http-outgoing-0 >> Content-Type: application/x-www-form-urlencoded
+2018-08-30 18:10:46,544 DEBUG [main] headers:136 - http-outgoing-0 >> Host: rldvsvc01-awsnp.amcnetworks.com:8005
+2018-08-30 18:10:46,544 DEBUG [main] headers:136 - http-outgoing-0 >> Connection: Keep-Alive
+2018-08-30 18:10:46,545 DEBUG [main] headers:136 - http-outgoing-0 >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)
+2018-08-30 18:10:46,545 DEBUG [main] headers:136 - http-outgoing-0 >> Accept-Encoding: gzip,deflate
+2018-08-30 18:10:46,546 DEBUG [main] wire:73 - http-outgoing-0 >> "POST /token HTTP/1.1[\r][\n]"
+2018-08-30 18:10:46,547 DEBUG [main] wire:73 - http-outgoing-0 >> "Content-Length: 61[\r][\n]"
+2018-08-30 18:10:46,547 DEBUG [main] wire:73 - http-outgoing-0 >> "Content-Type: application/x-www-form-urlencoded[\r][\n]"
+2018-08-30 18:10:46,547 DEBUG [main] wire:73 - http-outgoing-0 >> "Host: rldvsvc01-awsnp.amcnetworks.com:8005[\r][\n]"
+2018-08-30 18:10:46,549 DEBUG [main] wire:73 - http-outgoing-0 >> "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:46,550 DEBUG [main] wire:73 - http-outgoing-0 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)[\r][\n]"
+2018-08-30 18:10:46,550 DEBUG [main] wire:73 - http-outgoing-0 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-08-30 18:10:46,551 DEBUG [main] wire:73 - http-outgoing-0 >> "[\r][\n]"
+2018-08-30 18:10:46,551 DEBUG [main] wire:87 - http-outgoing-0 >> "username=Integration&password=Integration&grant_type=password"
+2018-08-30 18:10:47,405 DEBUG [main] wire:73 - http-outgoing-0 << "HTTP/1.1 200 OK[\r][\n]"
+2018-08-30 18:10:47,405 DEBUG [main] wire:73 - http-outgoing-0 << "Cache-Control: no-cache[\r][\n]"
+2018-08-30 18:10:47,418 DEBUG [main] wire:73 - http-outgoing-0 << "Pragma: no-cache[\r][\n]"
+2018-08-30 18:10:47,419 DEBUG [main] wire:73 - http-outgoing-0 << "Content-Type: application/json;charset=UTF-8[\r][\n]"
+2018-08-30 18:10:47,419 DEBUG [main] wire:73 - http-outgoing-0 << "Expires: -1[\r][\n]"
+2018-08-30 18:10:47,420 DEBUG [main] wire:73 - http-outgoing-0 << "Server: Microsoft-IIS/8.5[\r][\n]"
+2018-08-30 18:10:47,420 DEBUG [main] wire:73 - http-outgoing-0 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-08-30 18:10:47,421 DEBUG [main] wire:73 - http-outgoing-0 << "X-Powered-By: ASP.NET[\r][\n]"
+2018-08-30 18:10:47,421 DEBUG [main] wire:73 - http-outgoing-0 << "Date: Thu, 30 Aug 2018 12:40:49 GMT[\r][\n]"
+2018-08-30 18:10:47,422 DEBUG [main] wire:73 - http-outgoing-0 << "Content-Length: 316[\r][\n]"
+2018-08-30 18:10:47,423 DEBUG [main] wire:73 - http-outgoing-0 << "[\r][\n]"
+2018-08-30 18:10:47,423 DEBUG [main] wire:87 - http-outgoing-0 << "{"access_token":"bc78MNaGoIQoAwNkAKeAk5PGsi2towC69u77rmdjkZsL1mfMFE3SyirbbnXVwFZEoBIcawiddRYWNwoalOQmwk3gTmIr_xdsrw8KxoYQIESNcKplp-OHxP32NngQ9ffFZQr6MBOqh4c1WCYQJMMcSeNNn1VsPS5Am32Y1i9V4hqZAto6YH62XrYCS8jAgxeNHuzdJSIfuGAB96FQnp_t3mmIR55XZOsrhkeaTEqLR0KqTzMVxyxtMIqe80x40sBU","token_type":"bearer","expires_in":86399}"
+2018-08-30 18:10:47,431 DEBUG [main] headers:122 - http-outgoing-0 << HTTP/1.1 200 OK
+2018-08-30 18:10:47,431 DEBUG [main] headers:125 - http-outgoing-0 << Cache-Control: no-cache
+2018-08-30 18:10:47,431 DEBUG [main] headers:125 - http-outgoing-0 << Pragma: no-cache
+2018-08-30 18:10:47,436 DEBUG [main] headers:125 - http-outgoing-0 << Content-Type: application/json;charset=UTF-8
+2018-08-30 18:10:47,436 DEBUG [main] headers:125 - http-outgoing-0 << Expires: -1
+2018-08-30 18:10:47,438 DEBUG [main] headers:125 - http-outgoing-0 << Server: Microsoft-IIS/8.5
+2018-08-30 18:10:47,439 DEBUG [main] headers:125 - http-outgoing-0 << Access-Control-Allow-Origin: *
+2018-08-30 18:10:47,439 DEBUG [main] headers:125 - http-outgoing-0 << X-Powered-By: ASP.NET
+2018-08-30 18:10:47,440 DEBUG [main] headers:125 - http-outgoing-0 << Date: Thu, 30 Aug 2018 12:40:49 GMT
+2018-08-30 18:10:47,440 DEBUG [main] headers:125 - http-outgoing-0 << Content-Length: 316
+2018-08-30 18:10:47,456 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2018-08-30 18:10:47,469 DEBUG [main] PoolingHttpClientConnectionManager:320 - Connection [id: 0][route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005] can be kept alive indefinitely
+2018-08-30 18:10:47,469 DEBUG [main] PoolingHttpClientConnectionManager:326 - Connection released: [id: 0][route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:47,651 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2018-08-30 18:10:47,652 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2018-08-30 18:10:47,652 DEBUG [main] PoolingHttpClientConnectionManager:255 - Connection request: [route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-08-30 18:10:47,652 DEBUG [main] PoolingHttpClientConnectionManager:288 - Connection leased: [id: 1][route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:47,652 DEBUG [main] MainClientExec:235 - Opening connection {}->http://rldvsvc01-awsnp.amcnetworks.com:8005
+2018-08-30 18:10:47,652 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to rldvsvc01-awsnp.amcnetworks.com/10.12.8.22:8005
+2018-08-30 18:10:47,867 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 10.6.235.203:64568<->10.12.8.22:8005
+2018-08-30 18:10:47,867 DEBUG [main] MainClientExec:256 - Executing request GET /api/AssetMaintenance/Asset/AssetID/164498 HTTP/1.1
+2018-08-30 18:10:47,879 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2018-08-30 18:10:47,880 DEBUG [main] headers:133 - http-outgoing-1 >> GET /api/AssetMaintenance/Asset/AssetID/164498 HTTP/1.1
+2018-08-30 18:10:47,880 DEBUG [main] headers:136 - http-outgoing-1 >> Authorization: Bearer bc78MNaGoIQoAwNkAKeAk5PGsi2towC69u77rmdjkZsL1mfMFE3SyirbbnXVwFZEoBIcawiddRYWNwoalOQmwk3gTmIr_xdsrw8KxoYQIESNcKplp-OHxP32NngQ9ffFZQr6MBOqh4c1WCYQJMMcSeNNn1VsPS5Am32Y1i9V4hqZAto6YH62XrYCS8jAgxeNHuzdJSIfuGAB96FQnp_t3mmIR55XZOsrhkeaTEqLR0KqTzMVxyxtMIqe80x40sBU
+2018-08-30 18:10:47,881 DEBUG [main] headers:136 - http-outgoing-1 >> Host: rldvsvc01-awsnp.amcnetworks.com:8005
+2018-08-30 18:10:47,881 DEBUG [main] headers:136 - http-outgoing-1 >> Connection: Keep-Alive
+2018-08-30 18:10:47,881 DEBUG [main] headers:136 - http-outgoing-1 >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)
+2018-08-30 18:10:47,882 DEBUG [main] headers:136 - http-outgoing-1 >> Accept-Encoding: gzip,deflate
+2018-08-30 18:10:47,882 DEBUG [main] wire:73 - http-outgoing-1 >> "GET /api/AssetMaintenance/Asset/AssetID/164498 HTTP/1.1[\r][\n]"
+2018-08-30 18:10:47,882 DEBUG [main] wire:73 - http-outgoing-1 >> "Authorization: Bearer bc78MNaGoIQoAwNkAKeAk5PGsi2towC69u77rmdjkZsL1mfMFE3SyirbbnXVwFZEoBIcawiddRYWNwoalOQmwk3gTmIr_xdsrw8KxoYQIESNcKplp-OHxP32NngQ9ffFZQr6MBOqh4c1WCYQJMMcSeNNn1VsPS5Am32Y1i9V4hqZAto6YH62XrYCS8jAgxeNHuzdJSIfuGAB96FQnp_t3mmIR55XZOsrhkeaTEqLR0KqTzMVxyxtMIqe80x40sBU[\r][\n]"
+2018-08-30 18:10:47,883 DEBUG [main] wire:73 - http-outgoing-1 >> "Host: rldvsvc01-awsnp.amcnetworks.com:8005[\r][\n]"
+2018-08-30 18:10:47,883 DEBUG [main] wire:73 - http-outgoing-1 >> "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:47,883 DEBUG [main] wire:73 - http-outgoing-1 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)[\r][\n]"
+2018-08-30 18:10:47,884 DEBUG [main] wire:73 - http-outgoing-1 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-08-30 18:10:47,884 DEBUG [main] wire:73 - http-outgoing-1 >> "[\r][\n]"
+2018-08-30 18:10:48,160 DEBUG [main] wire:73 - http-outgoing-1 << "HTTP/1.1 200 OK[\r][\n]"
+2018-08-30 18:10:48,160 DEBUG [main] wire:73 - http-outgoing-1 << "Cache-Control: no-cache[\r][\n]"
+2018-08-30 18:10:48,160 DEBUG [main] wire:73 - http-outgoing-1 << "Pragma: no-cache[\r][\n]"
+2018-08-30 18:10:48,162 DEBUG [main] wire:73 - http-outgoing-1 << "Content-Type: application/json; charset=utf-8[\r][\n]"
+2018-08-30 18:10:48,163 DEBUG [main] wire:73 - http-outgoing-1 << "Expires: -1[\r][\n]"
+2018-08-30 18:10:48,164 DEBUG [main] wire:73 - http-outgoing-1 << "Server: Microsoft-IIS/8.5[\r][\n]"
+2018-08-30 18:10:48,165 DEBUG [main] wire:73 - http-outgoing-1 << "X-AspNet-Version: 4.0.30319[\r][\n]"
+2018-08-30 18:10:48,165 DEBUG [main] wire:73 - http-outgoing-1 << "X-Powered-By: ASP.NET[\r][\n]"
+2018-08-30 18:10:48,166 DEBUG [main] wire:73 - http-outgoing-1 << "Date: Thu, 30 Aug 2018 12:40:49 GMT[\r][\n]"
+2018-08-30 18:10:48,166 DEBUG [main] wire:73 - http-outgoing-1 << "Content-Length: 2479[\r][\n]"
+2018-08-30 18:10:48,167 DEBUG [main] wire:73 - http-outgoing-1 << "[\r][\n]"
+2018-08-30 18:10:48,168 DEBUG [main] wire:87 - http-outgoing-1 << "[{"ID":164498,"SeriesID":159197,"SeasonID":9494,"SeriesName":"Dinner for Five","Aka":[{"Network":{"ID":0,"ParentID":"","DisplayName":"","SourceID":""},"UpdatedDate":"2018-08-10T10:11:18","UpdatedBy":"Bipin.Gadgil@AMCNETWORKS.COM","Name":"Test Episode","Type":"AKA"},{"Network":{"ID":0,"ParentID":"","DisplayName":"","SourceID":""},"UpdatedDate":"2018-08-10T10:11:18","UpdatedBy":"Pradnya.Vanarase@AMCNETWORKS.COM","Name":"Test","Type":"Legal"},{"Network":{"ID":0,"ParentID":"","DisplayName":"","SourceID":""},"UpdatedDate":"2018-08-10T10:11:18","UpdatedBy":"Pradnya.Vanarase@AMCNETWORKS.COM","Name":"Test Alt Title","Type":"Legal"}],"Cast":[{"UpdatedDate":"2018-08-03T05:58:46","UpdatedBy":"Pradnya.Vanarase@AMCNETWORKS.COM","SourcePersonID":"Steven Spielberg SR","SourceEnterpriseID":"","Guild":{"SourceID":""},"CharacterName":"Steven Spielberg SR","Notes":"","Role":{"SourceID":"Director"}}],"language":[],"genre":[{"UpdatedDate":"2017-10-09T16:31:56","UpdatedBy":"Karen.Mock@amcnetworks.com","Genre":"IFC","SubGenre":"Ensemble"},{"UpdatedDate":"2017-10-09T16:31:56","UpdatedBy":"Karen.Mock@amcnetworks.com","Genre":"IFC","SubGenre":"Original Programming"}],"Vendor":[{"Addresses":[],"UpdatedDate":"2018-08-29T08:02:37","UpdatedBy":"Bipin.Gadgil@AMCNETWORKS.COM","SourceID":"","Name":"Big Frog Productions, Ltd.","ShortName":"","SubType":{"SourceID":"Vendor"},"Collector":{"SourceID":"Vendor"},"WireInformation":null}],"Notes":[],"Synopsis":[{"UpdatedDate":"2014-10-01T14:57:57.979091","UpdatedBy":"Karen Mock","SourceID":"28939","Type":{"SourceID":"Long Plot"},"Source":{"SourceID":""},"Language":{"SourceID":""},"Text":"Guests: Peter Billingsly, John Favreau, Vince Vaughn, Dwight Yokum & TBD","Network":{"ID":0,"ParentID":"","DisplayName":"IFC, IFC Linear, IFC HD, IFC On Demand, IFC.COM, IFCTVE","SourceID":"IFC, IFC Linear, IFC HD, IFC On Demand, IFC.COM, IFCTVE"},"Length":"<= 90"}],"UpdatedDate":"2018-08-29T08:02:38","UpdatedBy":"Bipin.Gadgil@AMCNETWORKS.COM","Name":"Dinner for Five: 04-014","Type":{"SourceID":"Program"},"SubType":{"SourceID":"Episode"},"ShortName":"","SourceBusinessUnit":"IFC Linear","Duration":"1800","VendorSourceID":null,"Status":{"SourceID":"Active"},"SourceSystem":"PARADIGM","SourceID":"28939","SourceParentID":"000000000","SeasonName":"Season 4","EpisodeNumber":"04-014","Year1":"","Year2":"2005","Country":{"SourceID":""},"AssetCategory":{"SourceID":"Theatrical"},"TBA":false,"MPAARating":{"SourceID":""},"TVRatingWarning":{"SourceID":""}}]"
+2018-08-30 18:10:48,170 DEBUG [main] headers:122 - http-outgoing-1 << HTTP/1.1 200 OK
+2018-08-30 18:10:48,171 DEBUG [main] headers:125 - http-outgoing-1 << Cache-Control: no-cache
+2018-08-30 18:10:48,171 DEBUG [main] headers:125 - http-outgoing-1 << Pragma: no-cache
+2018-08-30 18:10:48,171 DEBUG [main] headers:125 - http-outgoing-1 << Content-Type: application/json; charset=utf-8
+2018-08-30 18:10:48,172 DEBUG [main] headers:125 - http-outgoing-1 << Expires: -1
+2018-08-30 18:10:48,173 DEBUG [main] headers:125 - http-outgoing-1 << Server: Microsoft-IIS/8.5
+2018-08-30 18:10:48,173 DEBUG [main] headers:125 - http-outgoing-1 << X-AspNet-Version: 4.0.30319
+2018-08-30 18:10:48,173 DEBUG [main] headers:125 - http-outgoing-1 << X-Powered-By: ASP.NET
+2018-08-30 18:10:48,173 DEBUG [main] headers:125 - http-outgoing-1 << Date: Thu, 30 Aug 2018 12:40:49 GMT
+2018-08-30 18:10:48,174 DEBUG [main] headers:125 - http-outgoing-1 << Content-Length: 2479
+2018-08-30 18:10:48,174 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2018-08-30 18:10:48,176 DEBUG [main] PoolingHttpClientConnectionManager:320 - Connection [id: 1][route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005] can be kept alive indefinitely
+2018-08-30 18:10:48,176 DEBUG [main] PoolingHttpClientConnectionManager:326 - Connection released: [id: 1][route: {}->http://rldvsvc01-awsnp.amcnetworks.com:8005][total kept alive: 1; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:48,392 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2018-08-30 18:10:48,392 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2018-08-30 18:10:48,392 DEBUG [main] PoolingHttpClientConnectionManager:255 - Connection request: [route: {s}->https://api.us.apiconnect.ibmcloud.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-08-30 18:10:48,392 DEBUG [main] PoolingHttpClientConnectionManager:288 - Connection leased: [id: 2][route: {s}->https://api.us.apiconnect.ibmcloud.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:48,392 DEBUG [main] MainClientExec:235 - Opening connection {s}->https://api.us.apiconnect.ibmcloud.com:443
+2018-08-30 18:10:48,606 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to api.us.apiconnect.ibmcloud.com/198.23.117.187:443
+2018-08-30 18:10:48,606 DEBUG [main] SSLConnectionSocketFactory:337 - Connecting socket to api.us.apiconnect.ibmcloud.com/198.23.117.187:443 with timeout 0
+2018-08-30 18:10:48,969 DEBUG [main] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2018-08-30 18:10:48,969 DEBUG [main] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2018-08-30 18:10:48,969 DEBUG [main] SSLConnectionSocketFactory:395 - Starting handshake
+2018-08-30 18:10:49,643 DEBUG [main] SSLConnectionSocketFactory:425 - Secure session established
+2018-08-30 18:10:49,644 DEBUG [main] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2018-08-30 18:10:49,644 DEBUG [main] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+2018-08-30 18:10:49,645 DEBUG [main] SSLConnectionSocketFactory:435 -  peer principal: CN=*.apiconnect.ibmcloud.com, O=International Business Machines Corporation, L=Armonk, ST=NY, C=US
+2018-08-30 18:10:49,646 DEBUG [main] SSLConnectionSocketFactory:444 -  peer alternative names: [*.apiconnect.ibmcloud.com, apiconnect.ibmcloud.com, au.apiconnect.ibmcloud.com, api.au.apiconnect.ibmcloud.com, eu.apiconnect.ibmcloud.com, api.eu.apiconnect.ibmcloud.com, us.apiconnect.ibmcloud.com, api.us.apiconnect.ibmcloud.com]
+2018-08-30 18:10:49,646 DEBUG [main] SSLConnectionSocketFactory:448 -  issuer principal: CN=DigiCert SHA2 Secure Server CA, O=DigiCert Inc, C=US
+2018-08-30 18:10:49,682 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 10.6.235.203:64569<->198.23.117.187:443
+2018-08-30 18:10:49,682 DEBUG [main] MainClientExec:256 - Executing request POST /amc-networks-inc-dev/asit/oauthGeneric/oauth2/token HTTP/1.1
+2018-08-30 18:10:49,682 DEBUG [main] MainClientExec:261 - Target auth state: UNCHALLENGED
+2018-08-30 18:10:49,682 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2018-08-30 18:10:49,682 DEBUG [main] headers:133 - http-outgoing-2 >> POST /amc-networks-inc-dev/asit/oauthGeneric/oauth2/token HTTP/1.1
+2018-08-30 18:10:49,682 DEBUG [main] headers:136 - http-outgoing-2 >> Content-Length: 166
+2018-08-30 18:10:49,682 DEBUG [main] headers:136 - http-outgoing-2 >> Content-Type: application/x-www-form-urlencoded
+2018-08-30 18:10:49,682 DEBUG [main] headers:136 - http-outgoing-2 >> Host: api.us.apiconnect.ibmcloud.com
+2018-08-30 18:10:49,682 DEBUG [main] headers:136 - http-outgoing-2 >> Connection: Keep-Alive
+2018-08-30 18:10:49,682 DEBUG [main] headers:136 - http-outgoing-2 >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)
+2018-08-30 18:10:49,682 DEBUG [main] headers:136 - http-outgoing-2 >> Accept-Encoding: gzip,deflate
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "POST /amc-networks-inc-dev/asit/oauthGeneric/oauth2/token HTTP/1.1[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "Content-Length: 166[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "Content-Type: application/x-www-form-urlencoded[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "Host: api.us.apiconnect.ibmcloud.com[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:73 - http-outgoing-2 >> "[\r][\n]"
+2018-08-30 18:10:49,682 DEBUG [main] wire:87 - http-outgoing-2 >> "grant_type=client_credentials&client_id=cebff59a-4e80-4a47-9c2a-6e25ec3c5397&client_secret=xY2sJ4xW1bW4hW1uN5bU2uG6hM2wI4kX7dM1qH6nK2wT2aT1oO&scope=amcn_notifications"
+2018-08-30 18:10:50,005 DEBUG [main] wire:73 - http-outgoing-2 << "HTTP/1.1 200 OK[\r][\n]"
+2018-08-30 18:10:50,006 DEBUG [main] wire:73 - http-outgoing-2 << "X-Backside-Transport: FAIL FAIL[\r][\n]"
+2018-08-30 18:10:50,006 DEBUG [main] wire:73 - http-outgoing-2 << "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:50,006 DEBUG [main] wire:73 - http-outgoing-2 << "Transfer-Encoding: chunked[\r][\n]"
+2018-08-30 18:10:50,007 DEBUG [main] wire:73 - http-outgoing-2 << "Content-Type: application/json[\r][\n]"
+2018-08-30 18:10:50,008 DEBUG [main] wire:73 - http-outgoing-2 << "Cache-Control: private, no-store, no-cache, must-revalidate[\r][\n]"
+2018-08-30 18:10:50,008 DEBUG [main] wire:73 - http-outgoing-2 << "Pragma: no-cache[\r][\n]"
+2018-08-30 18:10:50,009 DEBUG [main] wire:73 - http-outgoing-2 << "Content-Security-Policy: default-src 'self'; style-src 'unsafe-inline'[\r][\n]"
+2018-08-30 18:10:50,009 DEBUG [main] wire:73 - http-outgoing-2 << "Access-Control-Expose-Headers: APIm-Debug-Trans-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-Global-Transaction-ID[\r][\n]"
+2018-08-30 18:10:50,009 DEBUG [main] wire:73 - http-outgoing-2 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-08-30 18:10:50,010 DEBUG [main] wire:73 - http-outgoing-2 << "Access-Control-Allow-Methods: POST[\r][\n]"
+2018-08-30 18:10:50,010 DEBUG [main] wire:73 - http-outgoing-2 << "Content-Encoding: gzip[\r][\n]"
+2018-08-30 18:10:50,011 DEBUG [main] wire:73 - http-outgoing-2 << "[\r][\n]"
+2018-08-30 18:10:50,011 DEBUG [main] headers:122 - http-outgoing-2 << HTTP/1.1 200 OK
+2018-08-30 18:10:50,012 DEBUG [main] headers:125 - http-outgoing-2 << X-Backside-Transport: FAIL FAIL
+2018-08-30 18:10:50,012 DEBUG [main] headers:125 - http-outgoing-2 << Connection: Keep-Alive
+2018-08-30 18:10:50,013 DEBUG [main] headers:125 - http-outgoing-2 << Transfer-Encoding: chunked
+2018-08-30 18:10:50,013 DEBUG [main] headers:125 - http-outgoing-2 << Content-Type: application/json
+2018-08-30 18:10:50,013 DEBUG [main] headers:125 - http-outgoing-2 << Cache-Control: private, no-store, no-cache, must-revalidate
+2018-08-30 18:10:50,013 DEBUG [main] headers:125 - http-outgoing-2 << Pragma: no-cache
+2018-08-30 18:10:50,014 DEBUG [main] headers:125 - http-outgoing-2 << Content-Security-Policy: default-src 'self'; style-src 'unsafe-inline'
+2018-08-30 18:10:50,014 DEBUG [main] headers:125 - http-outgoing-2 << Access-Control-Expose-Headers: APIm-Debug-Trans-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-Global-Transaction-ID
+2018-08-30 18:10:50,014 DEBUG [main] headers:125 - http-outgoing-2 << Access-Control-Allow-Origin: *
+2018-08-30 18:10:50,015 DEBUG [main] headers:125 - http-outgoing-2 << Access-Control-Allow-Methods: POST
+2018-08-30 18:10:50,015 DEBUG [main] headers:125 - http-outgoing-2 << Content-Encoding: gzip
+2018-08-30 18:10:50,017 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2018-08-30 18:10:50,038 DEBUG [main] wire:73 - http-outgoing-2 << "11d[\r][\n]"
+2018-08-30 18:10:50,038 DEBUG [main] wire:87 - http-outgoing-2 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0x1c][0x90][0xcb]n[0x82]@[0x0]E[0xc5][0xb0][0xae][0x9][0xcc][0xc]V[0xbb]#j[0xb5][0x91][0xc1][0xf2][0xe]n&8[0xc]:[0xe2]<[0x4][0x82]@[0xd3]/u{N[0xee][0xe2][0xdc][0x9f][0x99][0xd1][0xaa][0x8a]I[0xd2][0xe][0x9a][0x19][0x1f][0xc6][0x99][0xe5]5[0xab][0x8d][0xb7][0x99][0x91]S[0xca][0x9a][0x86][0xbc][0xec]$[0x1c][0xe7][0xab][0xca]@[0xc2]O"[0xb3][0x8e][0xe9][0xb6][0xf5]v1[0xc2]k[0xd3][0xcc]"[0x1f][0xba][0xd1][0xfd][0x86][0xc5][0xc4]D<xir[0xc3][0x0][x[0xac][0xe0][0xa7][0xa0]q[0x10][0xde][0xa3][0xa2][0xb3][0x82]e[0x9f]![0xe4][0xb8][0xa3]3[0x7][0xd9][0x16]u[0xdf][0x12][0x95][0xf7][0xcb][0xa5],[0xbd]cpJM][0xad][0xaa][0xdb]j[0x87]Fq[0xed][0xf4]b"
+2018-08-30 18:10:50,040 DEBUG [main] wire:73 - http-outgoing-2 << "[0xaf]:[0x12][0x84]Zn[0xd2][0xd5]0Z[0xce]Cm[0xba][\r][0x14][0xe8][0xc1][0xa5][0xdf][0xf]![0xec][0xb1][0x1e][0xdd][0xe8]P[0x1f][0xfa][\n]"
+2018-08-30 18:10:50,041 DEBUG [main] wire:87 - http-outgoing-2 << "<[0xdd]B[0xed][0xc1]:[0x8d]"x[0x15][0xc2][0x3][0xb1][0xb0][0xb][0xdc]t[0x98][0xf][0xe7][0xfa][0xc8]s[0x9e][0xc4][0x5]y[0x8a]m[0xe2][0xe9][0xf5]>N[0xe5]{[0xe9][0xff][0xc7][0xb1]^[0xf3][0x9a]5[0x84]Oi[0xb][0xd3][0x9c][0x8]U[0xb2]a[0xb2]e[0x5]Q[0x13][0xb3]lh/ X[0xda]`R[\r]U[0xaf]orA%[0x91][0xaa][0xe5]%[0xa7]y[0xcb][0xa7][0x81]1[0xfb][0xfd][0x3][0x0][0x0][0xff][0xff]"
+2018-08-30 18:10:50,042 DEBUG [main] wire:73 - http-outgoing-2 << "[\r][\n]"
+2018-08-30 18:10:50,043 DEBUG [main] wire:73 - http-outgoing-2 << "a[\r][\n]"
+2018-08-30 18:10:50,043 DEBUG [main] wire:87 - http-outgoing-2 << "[0x3][0x0][0xeb]PS,A[0x1][0x0][0x0]"
+2018-08-30 18:10:50,268 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2018-08-30 18:10:50,268 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2018-08-30 18:10:50,268 DEBUG [main] PoolingHttpClientConnectionManager:255 - Connection request: [route: {s}->https://api.us.apiconnect.ibmcloud.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-08-30 18:10:50,268 DEBUG [main] PoolingHttpClientConnectionManager:288 - Connection leased: [id: 3][route: {s}->https://api.us.apiconnect.ibmcloud.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:50,269 DEBUG [main] MainClientExec:235 - Opening connection {s}->https://api.us.apiconnect.ibmcloud.com:443
+2018-08-30 18:10:50,269 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to api.us.apiconnect.ibmcloud.com/198.23.117.187:443
+2018-08-30 18:10:50,269 DEBUG [main] SSLConnectionSocketFactory:337 - Connecting socket to api.us.apiconnect.ibmcloud.com/198.23.117.187:443 with timeout 0
+2018-08-30 18:10:50,518 DEBUG [main] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2018-08-30 18:10:50,524 DEBUG [main] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2018-08-30 18:10:50,524 DEBUG [main] SSLConnectionSocketFactory:395 - Starting handshake
+2018-08-30 18:10:51,110 DEBUG [main] SSLConnectionSocketFactory:425 - Secure session established
+2018-08-30 18:10:51,111 DEBUG [main] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2018-08-30 18:10:51,112 DEBUG [main] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+2018-08-30 18:10:51,112 DEBUG [main] SSLConnectionSocketFactory:435 -  peer principal: CN=*.apiconnect.ibmcloud.com, O=International Business Machines Corporation, L=Armonk, ST=NY, C=US
+2018-08-30 18:10:51,112 DEBUG [main] SSLConnectionSocketFactory:444 -  peer alternative names: [*.apiconnect.ibmcloud.com, apiconnect.ibmcloud.com, au.apiconnect.ibmcloud.com, api.au.apiconnect.ibmcloud.com, eu.apiconnect.ibmcloud.com, api.eu.apiconnect.ibmcloud.com, us.apiconnect.ibmcloud.com, api.us.apiconnect.ibmcloud.com]
+2018-08-30 18:10:51,113 DEBUG [main] SSLConnectionSocketFactory:448 -  issuer principal: CN=DigiCert SHA2 Secure Server CA, O=DigiCert Inc, C=US
+2018-08-30 18:10:51,115 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 10.6.235.203:64570<->198.23.117.187:443
+2018-08-30 18:10:51,116 DEBUG [main] MainClientExec:256 - Executing request POST /amc-networks-inc-dev/asit/1.2.0/adam/post HTTP/1.1
+2018-08-30 18:10:51,116 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2018-08-30 18:10:51,117 DEBUG [main] headers:133 - http-outgoing-3 >> POST /amc-networks-inc-dev/asit/1.2.0/adam/post HTTP/1.1
+2018-08-30 18:10:51,117 DEBUG [main] headers:136 - http-outgoing-3 >> Content-Type: application/json
+2018-08-30 18:10:51,119 DEBUG [main] headers:136 - http-outgoing-3 >> Authorization: Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3FmcURSlTdv1R8xY44ALzA-2YE4vPn4flggffNORZW0pk9kj9G4zmhvp6Hov_RSpnDW9yz1AqoDvD3m4qinQxyS3xMpzLTKrKxk2wLdoH2CWTT3hmmN2Um5dMsvMiybrOiaQ-VUd_wmEVNpCHUWn7fQ
+2018-08-30 18:10:51,119 DEBUG [main] headers:136 - http-outgoing-3 >> Accept: application/json
+2018-08-30 18:10:51,120 DEBUG [main] headers:136 - http-outgoing-3 >> endpoint: https://cap-sg-prd-4.integration.ibmcloud.com:17433
+2018-08-30 18:10:51,120 DEBUG [main] headers:136 - http-outgoing-3 >> resource: /dev/program/login
+2018-08-30 18:10:51,121 DEBUG [main] headers:136 - http-outgoing-3 >> tls-profile: asit-wo-101059121-50697
+2018-08-30 18:10:51,121 DEBUG [main] headers:136 - http-outgoing-3 >> x-ibm-client-id: cebff59a-4e80-4a47-9c2a-6e25ec3c5397
+2018-08-30 18:10:51,121 DEBUG [main] headers:136 - http-outgoing-3 >> Content-Length: 56
+2018-08-30 18:10:51,121 DEBUG [main] headers:136 - http-outgoing-3 >> Host: api.us.apiconnect.ibmcloud.com
+2018-08-30 18:10:51,122 DEBUG [main] headers:136 - http-outgoing-3 >> Connection: Keep-Alive
+2018-08-30 18:10:51,123 DEBUG [main] headers:136 - http-outgoing-3 >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)
+2018-08-30 18:10:51,124 DEBUG [main] headers:136 - http-outgoing-3 >> Accept-Encoding: gzip,deflate
+2018-08-30 18:10:51,125 DEBUG [main] wire:73 - http-outgoing-3 >> "POST /amc-networks-inc-dev/asit/1.2.0/adam/post HTTP/1.1[\r][\n]"
+2018-08-30 18:10:51,125 DEBUG [main] wire:73 - http-outgoing-3 >> "Content-Type: application/json[\r][\n]"
+2018-08-30 18:10:51,126 DEBUG [main] wire:73 - http-outgoing-3 >> "Authorization: Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3FmcURSlTdv1R8xY44ALzA-2YE4vPn4flggffNORZW0pk9kj9G4zmhvp6Hov_RSpnDW9yz1AqoDvD3m4qinQxyS3xMpzLTKrKxk2wLdoH2CWTT3hmmN2Um5dMsvMiybrOiaQ-VUd_wmEVNpCHUWn7fQ[\r][\n]"
+2018-08-30 18:10:51,127 DEBUG [main] wire:73 - http-outgoing-3 >> "Accept: application/json[\r][\n]"
+2018-08-30 18:10:51,127 DEBUG [main] wire:73 - http-outgoing-3 >> "endpoint: https://cap-sg-prd-4.integration.ibmcloud.com:17433[\r][\n]"
+2018-08-30 18:10:51,127 DEBUG [main] wire:73 - http-outgoing-3 >> "resource: /dev/program/login[\r][\n]"
+2018-08-30 18:10:51,128 DEBUG [main] wire:73 - http-outgoing-3 >> "tls-profile: asit-wo-101059121-50697[\r][\n]"
+2018-08-30 18:10:51,129 DEBUG [main] wire:73 - http-outgoing-3 >> "x-ibm-client-id: cebff59a-4e80-4a47-9c2a-6e25ec3c5397[\r][\n]"
+2018-08-30 18:10:51,129 DEBUG [main] wire:73 - http-outgoing-3 >> "Content-Length: 56[\r][\n]"
+2018-08-30 18:10:51,130 DEBUG [main] wire:73 - http-outgoing-3 >> "Host: api.us.apiconnect.ibmcloud.com[\r][\n]"
+2018-08-30 18:10:51,130 DEBUG [main] wire:73 - http-outgoing-3 >> "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:51,131 DEBUG [main] wire:73 - http-outgoing-3 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)[\r][\n]"
+2018-08-30 18:10:51,132 DEBUG [main] wire:73 - http-outgoing-3 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-08-30 18:10:51,132 DEBUG [main] wire:73 - http-outgoing-3 >> "[\r][\n]"
+2018-08-30 18:10:51,132 DEBUG [main] wire:87 - http-outgoing-3 >> "{"username":"restRightsLogic1", "password": "abcd1234"} "
+2018-08-30 18:10:51,614 DEBUG [main] wire:73 - http-outgoing-3 << "HTTP/1.1 200 OK[\r][\n]"
+2018-08-30 18:10:51,614 DEBUG [main] wire:73 - http-outgoing-3 << "X-Backside-Transport: OK OK[\r][\n]"
+2018-08-30 18:10:51,616 DEBUG [main] wire:73 - http-outgoing-3 << "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:51,616 DEBUG [main] wire:73 - http-outgoing-3 << "Transfer-Encoding: chunked[\r][\n]"
+2018-08-30 18:10:51,616 DEBUG [main] wire:73 - http-outgoing-3 << "Content-Type: application/json[\r][\n]"
+2018-08-30 18:10:51,617 DEBUG [main] wire:73 - http-outgoing-3 << "Date: Thu, 30 Aug 2018 12:40:53 -0700[\r][\n]"
+2018-08-30 18:10:51,617 DEBUG [main] wire:73 - http-outgoing-3 << "X-Global-Transaction-ID: 3516d0305b87e5d5180c4a7d[\r][\n]"
+2018-08-30 18:10:51,617 DEBUG [main] wire:73 - http-outgoing-3 << "User-Agent: IBM-APIConnect/201[\r][\n]"
+2018-08-30 18:10:51,617 DEBUG [main] wire:73 - http-outgoing-3 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-08-30 18:10:51,617 DEBUG [main] wire:73 - http-outgoing-3 << "Server: SiouX[\r][\n]"
+2018-08-30 18:10:51,618 DEBUG [main] wire:73 - http-outgoing-3 << "Access-Control-Expose-Headers: APIm-Debug-Trans-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-Global-Transaction-ID[\r][\n]"
+2018-08-30 18:10:51,618 DEBUG [main] wire:73 - http-outgoing-3 << "Access-Control-Allow-Methods: POST[\r][\n]"
+2018-08-30 18:10:51,618 DEBUG [main] wire:73 - http-outgoing-3 << "X-RateLimit-Limit: name=rate-limit,1000;[\r][\n]"
+2018-08-30 18:10:51,618 DEBUG [main] wire:73 - http-outgoing-3 << "X-RateLimit-Remaining: name=rate-limit,0;[\r][\n]"
+2018-08-30 18:10:51,620 DEBUG [main] wire:73 - http-outgoing-3 << "Content-Encoding: gzip[\r][\n]"
+2018-08-30 18:10:51,620 DEBUG [main] wire:73 - http-outgoing-3 << "[\r][\n]"
+2018-08-30 18:10:51,621 DEBUG [main] headers:122 - http-outgoing-3 << HTTP/1.1 200 OK
+2018-08-30 18:10:51,621 DEBUG [main] headers:125 - http-outgoing-3 << X-Backside-Transport: OK OK
+2018-08-30 18:10:51,621 DEBUG [main] headers:125 - http-outgoing-3 << Connection: Keep-Alive
+2018-08-30 18:10:51,621 DEBUG [main] headers:125 - http-outgoing-3 << Transfer-Encoding: chunked
+2018-08-30 18:10:51,621 DEBUG [main] headers:125 - http-outgoing-3 << Content-Type: application/json
+2018-08-30 18:10:51,621 DEBUG [main] headers:125 - http-outgoing-3 << Date: Thu, 30 Aug 2018 12:40:53 -0700
+2018-08-30 18:10:51,623 DEBUG [main] headers:125 - http-outgoing-3 << X-Global-Transaction-ID: 3516d0305b87e5d5180c4a7d
+2018-08-30 18:10:51,623 DEBUG [main] headers:125 - http-outgoing-3 << User-Agent: IBM-APIConnect/201
+2018-08-30 18:10:51,623 DEBUG [main] headers:125 - http-outgoing-3 << Access-Control-Allow-Origin: *
+2018-08-30 18:10:51,624 DEBUG [main] headers:125 - http-outgoing-3 << Server: SiouX
+2018-08-30 18:10:51,624 DEBUG [main] headers:125 - http-outgoing-3 << Access-Control-Expose-Headers: APIm-Debug-Trans-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-Global-Transaction-ID
+2018-08-30 18:10:51,624 DEBUG [main] headers:125 - http-outgoing-3 << Access-Control-Allow-Methods: POST
+2018-08-30 18:10:51,624 DEBUG [main] headers:125 - http-outgoing-3 << X-RateLimit-Limit: name=rate-limit,1000;
+2018-08-30 18:10:51,625 DEBUG [main] headers:125 - http-outgoing-3 << X-RateLimit-Remaining: name=rate-limit,0;
+2018-08-30 18:10:51,625 DEBUG [main] headers:125 - http-outgoing-3 << Content-Encoding: gzip
+2018-08-30 18:10:51,625 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2018-08-30 18:10:51,631 DEBUG [main] wire:73 - http-outgoing-3 << "f4[\r][\n]"
+2018-08-30 18:10:51,632 DEBUG [main] wire:87 - http-outgoing-3 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3],[0x8f]K[0x8f][0x82]0[0x18]E[0xff][0x8a]a=1<2&[0xb8]#[0x1d][0xd1][0x8f]@Ey[0x88][0xee][0xa0][0xad]X[0x94]blAa2[0xff]}:[0x8f][0xe5][0xcd]9"
+2018-08-30 18:10:51,633 DEBUG [main] wire:87 - http-outgoing-3 << "[0xb9][0xb9][0xf7][0xd3][0x90][0xaa]T[0xbd]D[0x1d]e[0xc6][0xd2]0[0x8d]7[0xa3]eR[0x96][0xf5]O[0xf2]zuaBqR*[0xde][0x89][0x99][0xec][0x9][0xd1][0xec][0xdc][0xdf][0xb4][0xa5][0xba]+[0x13][0xda]acp[0xa9][0xd6][0x84]oy[0x0][0xd9][0x4]"
+2018-08-30 18:10:51,634 DEBUG [main] wire:87 - http-outgoing-3 << "[0x16][0xe6] A[0xec][0xdf][0x9][0x82][0x5]\[0xef]E[0x8e][0x2]w[0xae]%[0x8b][0xd8][0xf9]X[0xb5][0xbe]:%[0x1a][0x88][0xe0]F[0x9c]}R[0x1e]hG78[0xaa]lz?N+[0x1e][0xa2][0xe0]y,[0xf0]Dmw<[0xe9][0x82]J"
+2018-08-30 18:10:51,634 DEBUG [main] wire:87 - http-outgoing-3 << "[0xe4][0xb2]BO^[0x1e]|[0x13][0x9a][0xee][0x85][0xd3][0xc8][0xc2][0x8d][0xe7][0xe0]&[0x9b][0xce][0xbb]9[\r][0xdb]a[0xed]L[0xa9][0x7]1[0xec][0xcc][0x85][0x15][0xd7][0x9b][0xcc][0xc1]-saU[0xc][0x85][0xbd][0x85]$l[0x9a]8N[0x13]O/[0x96]"
+2018-08-30 18:10:51,635 DEBUG [main] wire:87 - http-outgoing-3 << "[0xec]1p[0xf2][0xfb]+Bx[0x6]B[0xb1][0xfa][0xf1][0xf7],[0xf9]G_[0xdf][0x0][0x0][0x0][0xff][0xff]"
+2018-08-30 18:10:51,636 DEBUG [main] wire:73 - http-outgoing-3 << "[\r][\n]"
+2018-08-30 18:10:51,636 DEBUG [main] wire:73 - http-outgoing-3 << "a[\r][\n]"
+2018-08-30 18:10:51,637 DEBUG [main] wire:87 - http-outgoing-3 << "[0x3][0x0][0xf5][0x8d][0xd2][0x13][0xf][0x1][0x0][0x0]"
+2018-08-30 18:10:51,753 DEBUG [main] RequestAddCookies:123 - CookieSpec selected: default
+2018-08-30 18:10:51,753 DEBUG [main] RequestAuthCache:77 - Auth cache not set in the context
+2018-08-30 18:10:51,753 DEBUG [main] PoolingHttpClientConnectionManager:255 - Connection request: [route: {s}->https://api.us.apiconnect.ibmcloud.com:443][total kept alive: 0; route allocated: 0 of 2; total allocated: 0 of 20]
+2018-08-30 18:10:51,753 DEBUG [main] PoolingHttpClientConnectionManager:288 - Connection leased: [id: 4][route: {s}->https://api.us.apiconnect.ibmcloud.com:443][total kept alive: 0; route allocated: 1 of 2; total allocated: 1 of 20]
+2018-08-30 18:10:51,753 DEBUG [main] MainClientExec:235 - Opening connection {s}->https://api.us.apiconnect.ibmcloud.com:443
+2018-08-30 18:10:51,753 DEBUG [main] DefaultHttpClientConnectionOperator:139 - Connecting to api.us.apiconnect.ibmcloud.com/198.23.117.187:443
+2018-08-30 18:10:51,753 DEBUG [main] SSLConnectionSocketFactory:337 - Connecting socket to api.us.apiconnect.ibmcloud.com/198.23.117.187:443 with timeout 0
+2018-08-30 18:10:52,015 DEBUG [main] SSLConnectionSocketFactory:390 - Enabled protocols: [TLSv1, TLSv1.1, TLSv1.2]
+2018-08-30 18:10:52,031 DEBUG [main] SSLConnectionSocketFactory:391 - Enabled cipher suites:[TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256, TLS_EMPTY_RENEGOTIATION_INFO_SCSV]
+2018-08-30 18:10:52,032 DEBUG [main] SSLConnectionSocketFactory:395 - Starting handshake
+2018-08-30 18:10:52,602 DEBUG [main] SSLConnectionSocketFactory:425 - Secure session established
+2018-08-30 18:10:52,602 DEBUG [main] SSLConnectionSocketFactory:426 -  negotiated protocol: TLSv1.2
+2018-08-30 18:10:52,608 DEBUG [main] SSLConnectionSocketFactory:427 -  negotiated cipher suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+2018-08-30 18:10:52,609 DEBUG [main] SSLConnectionSocketFactory:435 -  peer principal: CN=*.apiconnect.ibmcloud.com, O=International Business Machines Corporation, L=Armonk, ST=NY, C=US
+2018-08-30 18:10:52,609 DEBUG [main] SSLConnectionSocketFactory:444 -  peer alternative names: [*.apiconnect.ibmcloud.com, apiconnect.ibmcloud.com, au.apiconnect.ibmcloud.com, api.au.apiconnect.ibmcloud.com, eu.apiconnect.ibmcloud.com, api.eu.apiconnect.ibmcloud.com, us.apiconnect.ibmcloud.com, api.us.apiconnect.ibmcloud.com]
+2018-08-30 18:10:52,610 DEBUG [main] SSLConnectionSocketFactory:448 -  issuer principal: CN=DigiCert SHA2 Secure Server CA, O=DigiCert Inc, C=US
+2018-08-30 18:10:52,613 DEBUG [main] DefaultHttpClientConnectionOperator:146 - Connection established 10.6.235.203:64571<->198.23.117.187:443
+2018-08-30 18:10:52,614 DEBUG [main] MainClientExec:256 - Executing request GET /amc-networks-inc-dev/asit/1.2.0/adam/get HTTP/1.1
+2018-08-30 18:10:52,614 DEBUG [main] MainClientExec:267 - Proxy auth state: UNCHALLENGED
+2018-08-30 18:10:52,615 DEBUG [main] headers:133 - http-outgoing-4 >> GET /amc-networks-inc-dev/asit/1.2.0/adam/get HTTP/1.1
+2018-08-30 18:10:52,615 DEBUG [main] headers:136 - http-outgoing-4 >> Authorization: Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3FmcURSlTdv1R8xY44ALzA-2YE4vPn4flggffNORZW0pk9kj9G4zmhvp6Hov_RSpnDW9yz1AqoDvD3m4qinQxyS3xMpzLTKrKxk2wLdoH2CWTT3hmmN2Um5dMsvMiybrOiaQ-VUd_wmEVNpCHUWn7fQ
+2018-08-30 18:10:52,616 DEBUG [main] headers:136 - http-outgoing-4 >> Content-Type: application/xml
+2018-08-30 18:10:52,616 DEBUG [main] headers:136 - http-outgoing-4 >> auth2: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29yZCI6bnVsbCwiaWF0IjoxNTM1NjA3NjUzfQ.dLmvGFDzTAIPIQ061PgHU3Nme9IEXvX2OISLjjPPTSA
+2018-08-30 18:10:52,617 DEBUG [main] headers:136 - http-outgoing-4 >> endpoint: https://cap-sg-prd-4.integration.ibmcloud.com:17433
+2018-08-30 18:10:52,617 DEBUG [main] headers:136 - http-outgoing-4 >> resource: /dev/program/getEpisodeSeasonSeries/externalReference/RLA164498
+2018-08-30 18:10:52,617 DEBUG [main] headers:136 - http-outgoing-4 >> tls-profile: asit-wo-101059121-50697
+2018-08-30 18:10:52,618 DEBUG [main] headers:136 - http-outgoing-4 >> x-ibm-client-id: cebff59a-4e80-4a47-9c2a-6e25ec3c5397
+2018-08-30 18:10:52,618 DEBUG [main] headers:136 - http-outgoing-4 >> Host: api.us.apiconnect.ibmcloud.com
+2018-08-30 18:10:52,618 DEBUG [main] headers:136 - http-outgoing-4 >> Connection: Keep-Alive
+2018-08-30 18:10:52,620 DEBUG [main] headers:136 - http-outgoing-4 >> User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)
+2018-08-30 18:10:52,620 DEBUG [main] headers:136 - http-outgoing-4 >> Accept-Encoding: gzip,deflate
+2018-08-30 18:10:52,620 DEBUG [main] wire:73 - http-outgoing-4 >> "GET /amc-networks-inc-dev/asit/1.2.0/adam/get HTTP/1.1[\r][\n]"
+2018-08-30 18:10:52,621 DEBUG [main] wire:73 - http-outgoing-4 >> "Authorization: Bearer AAIkY2ViZmY1OWEtNGU4MC00YTQ3LTljMmEtNmUyNWVjM2M1Mzk3FmcURSlTdv1R8xY44ALzA-2YE4vPn4flggffNORZW0pk9kj9G4zmhvp6Hov_RSpnDW9yz1AqoDvD3m4qinQxyS3xMpzLTKrKxk2wLdoH2CWTT3hmmN2Um5dMsvMiybrOiaQ-VUd_wmEVNpCHUWn7fQ[\r][\n]"
+2018-08-30 18:10:52,622 DEBUG [main] wire:73 - http-outgoing-4 >> "Content-Type: application/xml[\r][\n]"
+2018-08-30 18:10:52,622 DEBUG [main] wire:73 - http-outgoing-4 >> "auth2: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlc3RSaWdodHNMb2dpYzEiLCJwYXNzd29yZCI6bnVsbCwiaWF0IjoxNTM1NjA3NjUzfQ.dLmvGFDzTAIPIQ061PgHU3Nme9IEXvX2OISLjjPPTSA[\r][\n]"
+2018-08-30 18:10:52,623 DEBUG [main] wire:73 - http-outgoing-4 >> "endpoint: https://cap-sg-prd-4.integration.ibmcloud.com:17433[\r][\n]"
+2018-08-30 18:10:52,624 DEBUG [main] wire:73 - http-outgoing-4 >> "resource: /dev/program/getEpisodeSeasonSeries/externalReference/RLA164498[\r][\n]"
+2018-08-30 18:10:52,624 DEBUG [main] wire:73 - http-outgoing-4 >> "tls-profile: asit-wo-101059121-50697[\r][\n]"
+2018-08-30 18:10:52,625 DEBUG [main] wire:73 - http-outgoing-4 >> "x-ibm-client-id: cebff59a-4e80-4a47-9c2a-6e25ec3c5397[\r][\n]"
+2018-08-30 18:10:52,625 DEBUG [main] wire:73 - http-outgoing-4 >> "Host: api.us.apiconnect.ibmcloud.com[\r][\n]"
+2018-08-30 18:10:52,626 DEBUG [main] wire:73 - http-outgoing-4 >> "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:52,626 DEBUG [main] wire:73 - http-outgoing-4 >> "User-Agent: Apache-HttpClient/4.5.3 (Java/1.8.0_181)[\r][\n]"
+2018-08-30 18:10:52,627 DEBUG [main] wire:73 - http-outgoing-4 >> "Accept-Encoding: gzip,deflate[\r][\n]"
+2018-08-30 18:10:52,627 DEBUG [main] wire:73 - http-outgoing-4 >> "[\r][\n]"
+2018-08-30 18:10:53,175 DEBUG [main] wire:73 - http-outgoing-4 << "HTTP/1.1 200 OK[\r][\n]"
+2018-08-30 18:10:53,176 DEBUG [main] wire:73 - http-outgoing-4 << "X-Backside-Transport: OK OK[\r][\n]"
+2018-08-30 18:10:53,176 DEBUG [main] wire:73 - http-outgoing-4 << "Connection: Keep-Alive[\r][\n]"
+2018-08-30 18:10:53,176 DEBUG [main] wire:73 - http-outgoing-4 << "Transfer-Encoding: chunked[\r][\n]"
+2018-08-30 18:10:53,177 DEBUG [main] wire:73 - http-outgoing-4 << "Content-Type: application/xml[\r][\n]"
+2018-08-30 18:10:53,177 DEBUG [main] wire:73 - http-outgoing-4 << "Date: Thu, 30 Aug 2018 12:40:55 -0700[\r][\n]"
+2018-08-30 18:10:53,178 DEBUG [main] wire:73 - http-outgoing-4 << "X-Global-Transaction-ID: 0abd545b5b87e5d61b32e811[\r][\n]"
+2018-08-30 18:10:53,178 DEBUG [main] wire:73 - http-outgoing-4 << "User-Agent: IBM-APIConnect/201[\r][\n]"
+2018-08-30 18:10:53,178 DEBUG [main] wire:73 - http-outgoing-4 << "Access-Control-Allow-Origin: *[\r][\n]"
+2018-08-30 18:10:53,178 DEBUG [main] wire:73 - http-outgoing-4 << "Server: SiouX[\r][\n]"
+2018-08-30 18:10:53,178 DEBUG [main] wire:73 - http-outgoing-4 << "Access-Control-Expose-Headers: APIm-Debug-Trans-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-Global-Transaction-ID[\r][\n]"
+2018-08-30 18:10:53,179 DEBUG [main] wire:73 - http-outgoing-4 << "Access-Control-Allow-Methods: GET[\r][\n]"
+2018-08-30 18:10:53,179 DEBUG [main] wire:73 - http-outgoing-4 << "X-RateLimit-Limit: name=rate-limit,1000;[\r][\n]"
+2018-08-30 18:10:53,179 DEBUG [main] wire:73 - http-outgoing-4 << "X-RateLimit-Remaining: name=rate-limit,0;[\r][\n]"
+2018-08-30 18:10:53,179 DEBUG [main] wire:73 - http-outgoing-4 << "Content-Encoding: gzip[\r][\n]"
+2018-08-30 18:10:53,180 DEBUG [main] wire:73 - http-outgoing-4 << "[\r][\n]"
+2018-08-30 18:10:53,181 DEBUG [main] headers:122 - http-outgoing-4 << HTTP/1.1 200 OK
+2018-08-30 18:10:53,181 DEBUG [main] headers:125 - http-outgoing-4 << X-Backside-Transport: OK OK
+2018-08-30 18:10:53,181 DEBUG [main] headers:125 - http-outgoing-4 << Connection: Keep-Alive
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << Transfer-Encoding: chunked
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << Content-Type: application/xml
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << Date: Thu, 30 Aug 2018 12:40:55 -0700
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << X-Global-Transaction-ID: 0abd545b5b87e5d61b32e811
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << User-Agent: IBM-APIConnect/201
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << Access-Control-Allow-Origin: *
+2018-08-30 18:10:53,182 DEBUG [main] headers:125 - http-outgoing-4 << Server: SiouX
+2018-08-30 18:10:53,183 DEBUG [main] headers:125 - http-outgoing-4 << Access-Control-Expose-Headers: APIm-Debug-Trans-Id, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-Global-Transaction-ID
+2018-08-30 18:10:53,183 DEBUG [main] headers:125 - http-outgoing-4 << Access-Control-Allow-Methods: GET
+2018-08-30 18:10:53,183 DEBUG [main] headers:125 - http-outgoing-4 << X-RateLimit-Limit: name=rate-limit,1000;
+2018-08-30 18:10:53,183 DEBUG [main] headers:125 - http-outgoing-4 << X-RateLimit-Remaining: name=rate-limit,0;
+2018-08-30 18:10:53,183 DEBUG [main] headers:125 - http-outgoing-4 << Content-Encoding: gzip
+2018-08-30 18:10:53,183 DEBUG [main] MainClientExec:285 - Connection can be kept alive indefinitely
+2018-08-30 18:10:53,187 DEBUG [main] wire:73 - http-outgoing-4 << "5e9[\r][\n]"
+2018-08-30 18:10:53,188 DEBUG [main] wire:73 - http-outgoing-4 << "[0x1f][0x8b][0x8][0x0][0x0][0x0][0x0][0x0][0x0][0x3][0xb2][0xb1][0xaf][0xc8][0xcd]Q(K-*[0xce][0xcc][0xcf][0xb3]U2[0xd4]3PRH[0xcd]K[0xce]O[0xc9][0xcc]K[0xb7]U[\n]"
+2018-08-30 18:10:53,189 DEBUG [main] wire:73 - http-outgoing-4 << "[\r]q[0xd3][0xb5]P[0xb2][0xb7][0xe3][0x2][0x0][0x0][0x0][0xff][0xff][0xec]Y[0xeb]o[0xe3]6[0xc][0xff]W[0xc][0xde][0x9a][0xa4]I[0xd7][0xe6][0xb0][0x14]p[0xf3]([0x8c]5[0xf][0xc4][0xee]m[0xfb]d[0xb8][0xb1][0x9c][\n]"
+2018-08-30 18:10:53,189 DEBUG [main] wire:73 - http-outgoing-4 << "[0xe7][0x17]$[0xb9]w[0xfd][0xef]G[0xc9][0xb2]-?[0xe2]z[0xbb][0xb6]7[0x1c][0xda][0xf][0xad]-R$E[0xfe]H[0x93][0xea][0xef]K[0xcb][0xd9][0xed][0xb7][0x8b][0xfb][0xb9][0xad]%NBb/=[0xb0][0xfc]/p[0xa3][0x99][0xbe][0xbf]3F[0xbf]M&[0xd3]+][0xe1]`[0xcf][0x9][0x90][0x96][0x9][0xa6][0xc0]S!`[0x16][0x0]e[0x81][0xa3][0x8][0x11][0xcd][0x8f][0x89][0xb6][0xc2]O[0xe8][0x93]6[0x9c][0xfc]:[0x1c]Mt[\r]G[0xc]E[0xc]lZ[0x91]8\ [0xdf]M[0x3][0xb6]F[0x1e]v[\r]J[0x11][0x9b][0xe9] [0x8b]x[0xe][0xfa][0xc6][0x10][0x89][0xdc][0xc0]![0xc8]G[0x4][0xec]>e[0xc7]3rI[0xec][0xcb]7[0x90][0xea][0x83][0xd4][0x99]~>[0x1c]^tq1[0x1c][0x4]\[0x95][0x87])#[0xf8]!e1[0x91]G[0xd9][0xa4][0xe1][0x3]"f[0x4][0x86][0x87].[0xcb]\7[0xe1][0xa2]PFw("[0x18]QyJ[0xb][0xb9]4[0x8e]4[0xc1][0x90][0x11][0x84]*n[0xc0]9,[0xc6][0xd8][0x83][0xc7][0xe9][0xf4][0xf2]r4[0x1d]_[0x9c]_[0xaa]&=[0x90][0xd8][0xf5][0xe].e/9[0xac][0x90][0x8c][0xbe]%[0xe8][0xc0][0x90][0x17][0xc1]Q[0xa4]5T[0xf8][0xab][0x90][0x19][0x82]8[0x8][0xb8]`[0xcf][0xec][0x90][0xe][0xe7][0xae][0xec]> R[0xa9]3]*[0x7]|[0x94][0xd2][0xf][0xb1][0x8][0x1d][0x15][0xa0][0xd9]9[0xf3][0xed][0xc6]^nlK[0x8b][0xdc]P[0xb8][0x82]k[0xd5][0x7]@[0x1d][0xb4][0xee]i[0xa0]KbS[0x8a][0x93] [0xfc][0xbc][0xdc][[0xe6]v#[0x85][0xae][0xc5][0x81]t-[0x85]3e`\[0x1b]u[0x15][\r]i[0x82]t$n[0xe8]D.K[0x9][0x92][\n]"
+2018-08-30 18:10:53,190 DEBUG [main] wire:73 - http-outgoing-4 << "6[0x86]}[0xbf]_J[0xc1][[0x82][0x8f][0x18][0x9c][0xa2][0x8][0xab][0xee]([0xe5][0x17][0x80][0x95]rLq[0xec][0xd2]Fs5[0xe7]N[0xf6][0x80][0x9]y[0x1b][0xb1][0xa4][0xc1]O[0xb6][0xcc]W[0xb1][0x8f][0xf][0xc2][0xd3][0xb]L[0x93][0xc0]}[0xb6][0x0]r<[0x7]9G[0xed],[0xaa][0xae][0xc6][0x9]a9[0x4][0x1f]T[0xfd][0x5]v[0xac][0xb7][0x8b][0xfc]X[0xf7][0x11]=[0x10][0x9c][0x80]!'[0xbc]T[0xca]([0xcf][0xac]$[0xf]&a[0x16]^ge[0xee][0xd7][0x9a][0xef]dbo[0xf0]Q[0x83]t=j[0xbb][0x82][0x95][0xfe][0xa2][0xdd]1[0xef]L[0xd7][0xf8][0x9e][0xd6]t[0xed][0xd8][0x4]*|QA[0xe4]Y[0xb8]2[0xfb][0xef]]~[0x8a]r[0x83]6[0x8f][0xc3][0xc4][0x8d][0x9e][0xb3][0xd3][0x14]{[0x6][0xd2][0xc0]j[0xec][0x9a][0xe7]([0x8f][0x9f][0xe7][0x8e][0x97][0x12]W[0x89][0xa5]m[0xae][0x97][0x8b][0xfb][0xbd]![0xc2][0x99][0xd3]f[0xfa]x[0xf8]i8<[0x1b][0xe][0xa1]d[0xe6][0x8b]8[0xa2][0x8][0xc0][0xec]A[0xc6][0x8d][0xae][0x80]Pso[0x8b][0xfc][0x92]HP[0xe8][0x92]/t[0xd0][0x16]T[0x91][0xfd][0xb4]R[0x87]m[0xd3][0xbe][Bi[0xf2][0x85]+[0x99][0xcd]9[0xec]G7ZA[0xc6][0xa6][0x81];[0xd3]}7[0xa0]Ps[0xbd][0xd0][0x7][0xf7][0x84][0xc0][0xc2][0xab][0x80]L`[0xc1]]p[\n]"
+2018-08-30 18:10:53,190 DEBUG [main] wire:73 - http-outgoing-4 << "&s[0xc1][0x1f]:[0xa1]x[0xb2][0xf8][0x88][\n]"
+2018-08-30 18:10:53,190 DEBUG [main] wire:73 - http-outgoing-4 << "6[0x1e]][0xc][0xaf][0xa6][0xc3][0xd1][0xc5][0x84][0x97]#@)u[0x3][0x11]o[0x6][0xbc][0xb2]|1[0x92]"I[0xac]W[0xb6][0x82][0xf4]b[0xa5][0x93],[0x18][0x1c]M[0x9f][0xc3][0x87][0x18]j4,[0xa0][0xe0]&f[0x8f]&,[0x8a]z[0xc4]T[0xe4][0xa8].S[0x10][0x94][0xa7][0xb7][0xf0][0x86][0x8c]U[0xb1][0xcf]s[0x19]:[0x10][0x4][0xbf]=[0x5][0x6][0xe6][0xc6][0xb2][0x8d][0x8d]-x[0xab][0x1c][0xfc][\r][0x92][0x6]|[0xd7][0xb9]Aa[0x11][0xe5]J[0xd1][0xe0][0xdc][[0xcb][0xbd]`[0xac]R[0xf8][Er[0x95]Q![\r]j[0xf0][0xf8][0xd1][0x80][0xb1][0xe1][0x13][0xa8][0x15]_[0x15]%[0xe7]]([0x91][0x86][0xb4][0xc2][0xa4][0xa4][0xc9][0x85][0xaa][0x8e]6p[0xf4][0xc6][0x83][0xf1][0x87][0xf1][0x81][0x82][0xb7]AA5[0xfa][0xe3]W[0x8d][0xfe]wF[0xfd][0xe][0x1d][0x8b]/[0xfc]G[0xdc]_;[0xfb][0x8d][0x80]iY}[0xad] `[0xf2][0xba][0xf9][0xaf]h[0xf9][0xc0][0xc2][0x9],4[0xdb][0xbc][0xa2][0xab]P:q[0xf0]t[0x88]xw/[0xbb][0x8d][0xb9]a[0xd9];co[0x9b]ss[0x7][0xd6]k[0x87][0xd0][0x89][0x89][0x7][0x1][0x83][0xf6][0xa4][0xf3]W[0x12][0xf3]0[0x0]VZ[0xba][0xbb][0xf1][0xf8][0xf2]j|V[0x8e]d [0x13]v$ ]6W[0xce][0xe]:y[0xe8][0xaa][0x12][0xe4][0xf8]i[0x10][0xc8]![0x81][0xa1]'[0x14]iV[0x82]Q[0x0][0x96][0x1c]5k[0xf]qE[0xa4][0xb5][0x81][0x14]*t![0x0][0x13][0xca]T[0x9]bU.[0xa8][0xb2][0x84][0xc3]T;[0xe0]Y[0xc1][0x6]?[0xb2][0x82][0x89][0x5]&[0xd0][0xb4][0xc5][0xa4][0xd8]&Y[0xe1][0xc9]O#[0xd1]I[0xe][0xa4][0xc7]k[0xce][0xaa][\r]9[0x15][0xd7][0xd6]G[0xc5][0xfa][0x8c][0xfd][0xd2] yr[0xfa][0xb5][0xa6][0x93][0xe9][0xa4]9[0x83][0xcb][0xc1][0xab]9[0x82][0xab][0xc3]i[0xf7][0xb8][0xac][0x9f]BJ[0xb5]e}[0x8d][0x1]P[0x99][0xb2][0xaa][0xc2][0xfb][0x8c]Y?xZ[0x12][0xa4]X[0xb4][0x96]R[0xec]vo[0xde][0x9a][0xb9][0x85]w[0xf8][0x80]`Jh[0x8]+v[0xf4][0x1a][0xb9]~[0xba]qJ[0x99][0x9c]z[0x8f]M[0xc2][0x0][0xfa][0x18][0x13][0xe6][0xa1],F[0xfc][0xd2][0x86]=[0xe5]z[0x96][0xd9][0xb5][0xc1][0xbd][0x9d]YR[0xe7][0xf0]9[0x8c]PpK[0xe2]4[0xb9]E[0x11]A[0xf4][0xe]G_[0xb8][0x84][0x96][0xf]G[0xe9][0xb8],[0x81]2[0x9b]%c[0xe2][0xf2]o[0xac][0x80]z-[0xaf];.[0xad].[0xa6][0xa3][0xe9]e3qw[0xa5][0xac][0xb6][0xf4][0xad][0x8d]Iz[0xd7][0xf5]\C[0xc3][0xa9]k[0xb1][0xf3][0xda][0x9d][0xce][0xbf][0xbe][0x8a][0xe9]u[0xf9][0xf2][0x16][0xd5][0xe2][0xfa][0xed]oq~[0x86][0xf2][0xd2][0xe7]n[0xa1]o[0xcf][0xd4]9E[0xff][0x87]>[0xe4][\r]J_[0x9f]+[0xaa][0x1a]8^[0xef][0x9a]h[0xd8]yM[0xd4][0xa7][0xd8][0xf1]O-[0x94][0x1][0x86][0xf][0x18][0xea]2[0xa3]=JR[0x99]6[0xcd]@[0x8]}[0x95][\n]"
+2018-08-30 18:10:53,191 DEBUG [main] wire:87 - http-outgoing-4 << "U'6{[0x93]Nu[0xf9][0xf4]])[0x81]j[0x90][0xb9]G[0x13][0xa8][0xa7][0x14][0x97][0x17][0xca][0xd0]TA#Y[0xeb][0x1d][0xbe][0x3][0xd7][0xad]=[0xb4][0x96]:|=[0x13][0x91]P[0xcc][0xcb]Z[0xea]x[0x8][0x8e][0xcf]B[0xa5][0xec],[0x96][0xbc]m[C[0xae][0xe7]W[0x1][0xeb][0xb9][0xa6]wH-$j[0x1e]t[0x9a]A[0x9c][0xe4]E[0xaf][0xba]aP[0x15]~J[0x1b][0x94][0x95]w[0xd4]f[0xa5][0x91][0xe7]B[0xca][0xbc][0x9f][0xc6]?[0x97][0x1a]{z?u77s[0xe3]m[0xfc]9[0xa8][0x83]g [0x85]67[0xd7][0xff][0xdf]"[0xdf][0xfa][0xf7][0x3][0xd9][0xc4]T[0x83]{]VK[0xeb][0xb2][0x12][0x19]f[0xa3][0x10]fqV[0xb6][0xcf][0xef][0xd6],[0xd5][0xab][0xd5]u[0xeb][0x1c][0xd9]gZT[0xa6][0xcb][0xeb][0xd3][0x83][0xe3][0xff]l,<1[0x7][0xb6]x[0xa5][0xda][0xd0][0x10][0xf7][0x90]Uv[0xb9]hFsu[0xd5][\r][0x82]]+[0xa1][0xc9][0xe][0x0][0xd8]~[0x8d][0x8c][0xc8][0xcb][0x9a][0xb1][0xcf]Y[0xd7][0x95][0xcf][0xa8]y[0x9d][0xff][0x7][0x0][0x0][0xff][0xff]"
+2018-08-30 18:10:53,192 DEBUG [main] wire:73 - http-outgoing-4 << "[\r][\n]"
+2018-08-30 18:10:53,192 DEBUG [main] wire:73 - http-outgoing-4 << "a[\r][\n]"
+2018-08-30 18:10:53,192 DEBUG [main] wire:87 - http-outgoing-4 << "[0x3][0x0]S[0xc1][0xd7]T[0xfa][0x1d][0x0][0x0]"
+2018-08-30 18:10:53,712 DEBUG [Finalizer] PoolingHttpClientConnectionManager:394 - Connection manager is shutting down
+2018-08-30 18:10:53,713 DEBUG [Finalizer] DefaultManagedHttpClientConnection:79 - http-outgoing-0: Close connection
+2018-08-30 18:10:53,715 DEBUG [Finalizer] PoolingHttpClientConnectionManager:400 - Connection manager shut down
+2018-08-30 18:10:53,715 DEBUG [Finalizer] PoolingHttpClientConnectionManager:394 - Connection manager is shutting down
+2018-08-30 18:10:53,716 DEBUG [Finalizer] DefaultManagedHttpClientConnection:79 - http-outgoing-3: Close connection
+2018-08-30 18:10:53,717 DEBUG [Finalizer] PoolingHttpClientConnectionManager:400 - Connection manager shut down
+2018-08-30 18:10:53,718 DEBUG [Finalizer] PoolingHttpClientConnectionManager:394 - Connection manager is shutting down
+2018-08-30 18:10:53,718 DEBUG [Finalizer] DefaultManagedHttpClientConnection:79 - http-outgoing-4: Close connection
+2018-08-30 18:10:53,719 DEBUG [Finalizer] PoolingHttpClientConnectionManager:400 - Connection manager shut down
+2018-08-30 18:10:53,721 DEBUG [Finalizer] PoolingHttpClientConnectionManager:394 - Connection manager is shutting down
+2018-08-30 18:10:53,721 DEBUG [Finalizer] DefaultManagedHttpClientConnection:79 - http-outgoing-1: Close connection
+2018-08-30 18:10:53,722 DEBUG [Finalizer] PoolingHttpClientConnectionManager:400 - Connection manager shut down
+2018-08-30 18:10:53,723 DEBUG [Finalizer] PoolingHttpClientConnectionManager:394 - Connection manager is shutting down
+2018-08-30 18:10:53,723 DEBUG [Finalizer] DefaultManagedHttpClientConnection:79 - http-outgoing-2: Close connection
+2018-08-30 18:10:53,724 DEBUG [Finalizer] PoolingHttpClientConnectionManager:400 - Connection manager shut down

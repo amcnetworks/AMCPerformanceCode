@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:test-suite start="1540838807689" stop="1540838835424" version="1.4.16" xmlns:ns2="urn:model.allure.qatools.yandex.ru">
+    <name>Suite : Test</name>
+    <title>Suite : Test</title>
+    <test-cases>
+        <test-case start="1540838807733" stop="1540838813180" status="passed">
+            <name>performanceTestOnWOP</name>
+            <title>Pushing the WOP XML's to ActiveMQ</title>
+            <steps>
+                <step start="1540838807890" stop="1540838807892" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838809311" stop="1540838809311" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : WOP_API_REQ.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : WOP_API_REQ.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838809312" stop="1540838809312" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :1]</name>
+                    <title>Pushed XML count on ActiveMQ :1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838811402" stop="1540838811402" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : WOP_API_REQ1.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : WOP_API_REQ1.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838811405" stop="1540838811405" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :2]</name>
+                    <title>Pushed XML count on ActiveMQ :2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="WOP XML"/>
+                <label name="feature" value="WOP"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="17384@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1540838813187" stop="1540838822962" status="passed">
+            <name>performanceTestOnMP</name>
+            <title>Pushing the MP XML's to ActiveMQ</title>
+            <steps>
+                <step start="1540838813189" stop="1540838813189" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838813276" stop="1540838813276" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MP_API_REQ.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MP_API_REQ.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838813278" stop="1540838813278" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :1]</name>
+                    <title>Pushed XML count on ActiveMQ :1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838815252" stop="1540838815252" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MP_API_REQ1.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MP_API_REQ1.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838815254" stop="1540838815254" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :2]</name>
+                    <title>Pushed XML count on ActiveMQ :2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838817488" stop="1540838817488" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MP_API_REQ2.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MP_API_REQ2.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838817490" stop="1540838817490" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :3]</name>
+                    <title>Pushed XML count on ActiveMQ :3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838820110" stop="1540838820110" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MP_API_REQ3.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MP_API_REQ3.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838820113" stop="1540838820113" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :4]</name>
+                    <title>Pushed XML count on ActiveMQ :4</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="MP XML"/>
+                <label name="feature" value="MP"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="17384@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+        <test-case start="1540838822967" stop="1540838835398" status="passed">
+            <name>performanceTestOnMEDIATOR</name>
+            <title>Pushing the MEDIATOR XML's to ActiveMQ</title>
+            <steps>
+                <step start="1540838822971" stop="1540838822971" status="passed">
+                    <name>logStep[Started reading data from Excel]</name>
+                    <title>Started reading data from Excel</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838823080" stop="1540838823080" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MED_API_REQ.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MED_API_REQ.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838823081" stop="1540838823081" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :1]</name>
+                    <title>Pushed XML count on ActiveMQ :1</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838826529" stop="1540838826529" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MED_API_REQ1.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MED_API_REQ1.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838826530" stop="1540838826530" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :2]</name>
+                    <title>Pushed XML count on ActiveMQ :2</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838830643" stop="1540838830643" status="passed">
+                    <name>logStep[Pushed XML Name on AciveMQ is : MED_API_REQ2.xml]</name>
+                    <title>Pushed XML Name on AciveMQ is : MED_API_REQ2.xml</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+                <step start="1540838830644" stop="1540838830644" status="passed">
+                    <name>logStep[Pushed XML count on ActiveMQ :3]</name>
+                    <title>Pushed XML count on ActiveMQ :3</title>
+                    <attachments/>
+                    <steps/>
+                </step>
+            </steps>
+            <attachments/>
+            <labels>
+                <label name="story" value="MEDIATOR XML"/>
+                <label name="feature" value="MEDIATOR"/>
+                <label name="host" value="MONO-HYD-LAP-41"/>
+                <label name="thread" value="17384@MONO-HYD-LAP-41.main(1)"/>
+            </labels>
+        </test-case>
+    </test-cases>
+    <labels>
+        <label name="framework" value="TestNG"/>
+        <label name="language" value="JAVA"/>
+    </labels>
+</ns2:test-suite>

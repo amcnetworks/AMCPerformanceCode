@@ -1,0 +1,203 @@
+"<NS1:root xmlns:NS1=""http://schemahost.amcnetworks.com:8080/amcnesb/schemas"">
+  <NS1:header>
+    <NS1:eventDefs>
+      <NS1:event>RL.ASSET.CHANGE</NS1:event>
+      <NS1:bid>188888</NS1:bid>
+      <NS1:event_id>BA0F586B-7050-450A-B0BA-DC8776510C10</NS1:event_id>
+    </NS1:eventDefs>
+    <NS1:source_system>AMCN.WOP.API.ADAPTER.IN</NS1:source_system>
+    <NS1:replyto>AMCN.WOP.RIGHTSLOGIC.ASSET.END</NS1:replyto>
+  </NS1:header>
+  <NS1:body>
+    <NS1:mssg>{""StartDateTime"": ""2018-10-19T05:29:23.1"",""EndDateTime"": ""2018-10-19T05:31:23.1""}</NS1:mssg>
+    <NS1:payload>{""AssetID"":188869,""SubType"":""Program-Episode"",""SourceID"":""188869"",""SourceParentID"":""188604""}</NS1:payload>
+    <NS1:jobStatusURL>http://wso2dss_server:9763/services/ESBJobQueueMgmt/UpdateStatus</NS1:jobStatusURL>
+    <NS1:jobid>383780</NS1:jobid>
+    <NS1:response name=""AMCN.WOP.RIGHTSLOGIC.ASSET.DATA.RL.ASSET.CHANGE"">
+      <ASSET>
+        <ID_ASSET>188606</ID_ASSET>
+        <AMCN_ID>RLA188606</AMCN_ID>
+        <TITLE>Law &amp; Order: 12-011: Collar, The</TITLE>
+        <ID_ASSETTYPE>1</ID_ASSETTYPE>
+        <ASSETTYPE_VALUE>Program</ASSETTYPE_VALUE>
+        <ID_ASSETSUBTYPE>3</ID_ASSETSUBTYPE>
+        <ASSETSUBTYPE_VALUE>Episode</ASSETSUBTYPE_VALUE>
+        <ID_ASSETSOURCE>26</ID_ASSETSOURCE>
+        <ASSETSOURCE>AMC Licensed Scripted Original</ASSETSOURCE>
+        <PRODUCT_NATURE>Original</PRODUCT_NATURE>
+        <PRODUCT_INTENTION>AMC</PRODUCT_INTENTION>
+        <PRODUCT_MODE>Scripted</PRODUCT_MODE>
+        <PRODUCT_ORIGIN>Licensed</PRODUCT_ORIGIN>
+        <VENDOR>NBC Universal</VENDOR>
+        <VENDORID>RLC8236</VENDORID>
+        <VENDOR_TYPE>PRODUCTION</VENDOR_TYPE>
+        <DURATION>3600</DURATION>
+        <RELEASE_YEAR>1990</RELEASE_YEAR>
+        <SECURITY_STATUS>Open</SECURITY_STATUS>
+        <EPISODE_NUMBER>12-011</EPISODE_NUMBER>
+        <AIRING_ORDER>265</AIRING_ORDER>
+        <SERIES>
+          <ID_ASSET>188606</ID_ASSET>
+          <AMCN_ID>RLA188606</AMCN_ID>
+          <TITLE>Law &amp; Order</TITLE>
+          <ID_ASSETTYPE>1</ID_ASSETTYPE>
+          <ASSETTYPE_VALUE>Program</ASSETTYPE_VALUE>
+          <ID_ASSETSUBTYPE>2</ID_ASSETSUBTYPE>
+          <ASSETSUBTYPE_VALUE>Series</ASSETSUBTYPE_VALUE>
+          <ID_ASSETSOURCE>2</ID_ASSETSOURCE>
+          <ASSETSOURCE>Licensed Acquired</ASSETSOURCE>
+          <PRODUCT_NATURE>Acquired</PRODUCT_NATURE>
+          <PRODUCT_INTENTION>AMC</PRODUCT_INTENTION>
+          <PRODUCT_ORIGIN>Licensed</PRODUCT_ORIGIN>
+          <VENDOR>NBC Universal</VENDOR>
+          <VENDORID>RLC8236</VENDORID>
+          <VENDOR_TYPE>DISTRIBUTOR</VENDOR_TYPE>
+          <DURATION>0</DURATION>
+          <RELEASE_YEAR>1990</RELEASE_YEAR>
+          <SECURITY_STATUS>Open</SECURITY_STATUS>
+          <SERIES />
+          <EPISODE_COUNT>456</EPISODE_COUNT>
+          <SEASON />
+          <ALIASES>
+            <ALIAS>
+              <ALIAS_TYPE>AKA</ALIAS_TYPE>
+              <ALIAS>Law &amp; Order AKA</ALIAS>
+            </ALIAS>
+          </ALIASES>
+          <DIRECTORS />
+          <EDITRESTRICTION>R</EDITRESTRICTION>
+        </SERIES>
+        <EPISODE_COUNT />
+        <SEASON>
+          <ID_ASSET>19434</ID_ASSET>
+          <AMCN_ID>RLS19434</AMCN_ID>
+          <SEASON_NAME>Season 12</SEASON_NAME>
+          <EPISODE_COUNT>24</EPISODE_COUNT>
+        </SEASON>
+        <ALIASES />
+        <DIRECTORS />
+        <EDITRESTRICTION>R</EDITRESTRICTION>
+      </ASSET>
+    </NS1:response>
+    <NS1:request method=""POST"" base_path=""/dev/program"" operation=""/Episode"" wop_api_host=""10.10.59.121"" wop_token_method=""POST"" wop_username=""restRightsLogic1"" scheme=""http"" wop_api_port=""50697"" resource=""/dev/program/login"" format=""XML"" wop_token_operation=""/login"" consul_token_url=""http://consul:8500/v1/kv/esb/WOP_TOKEN/restRightsLogic1?raw"" output_destination_queue=""dynamicQueues/AMCN.ESB.ALL.ALL.ALL.XML.QUEUE"" wop_event_log=""AMCN.WOP.ACK"">
+      <ES_PRODUCT prd_external_reference=""RLA188869"" p_product_type=""Episode"" distributorEpisodeNumberInformation=""265"" internalEpisodeNumberInformation=""265"" episodeNumber=""12-011"" p_product_productcode=""RLA188869"" p_product_yearofproductionfrom=""1990"" p_product_yearofproductiontill="""">
+        <p_product_producttitles>
+          <ES_PRODUCTTITLE pt_isalternativetitle=""true"">
+            <pt_title>Law &amp; Order: 12-011: Collar, The</pt_title>
+            <pt_type>
+              <ESP_PRODUCTTITLETYPE name=""OriginalTitle"" />
+            </pt_type>
+            <pt_isbroadcasttitle>true</pt_isbroadcasttitle>
+          </ES_PRODUCTTITLE>
+        </p_product_producttitles>
+        <p_product_productversion>
+          <ESP_PRODUCTVERSION name=""Master"" />
+        </p_product_productversion>
+        <p_product_contents>Series</p_product_contents>
+        <p_program_nature>
+          <ESP_NATURE name=""Original"" />
+        </p_program_nature>
+        <p_product_intention>AMC</p_product_intention>
+        <p_product_productionmode>Scripted</p_product_productionmode>
+        <p_product_origin>Licensed</p_product_origin>
+        <boTargetGroup>
+          <ESP_TARGETGROUP name=""Restricted (R)"" />
+        </boTargetGroup>
+        <p_program_productionfirms>
+          <ES_FIRM>
+            <firm_external_reference>RLC8236</firm_external_reference>
+            <f_name>NBC Universal</f_name>
+            <f_type>
+              <ESP_FIRMTYPE name=""Production Company"" />
+            </f_type>
+          </ES_FIRM>
+        </p_program_productionfirms>
+        <overwriteSecurityStatus>Open</overwriteSecurityStatus>
+        <p_product_expectedduration>
+          <ESP_TIMEDURATION duration=""60:00.000"" durationinseconds=""3600"" />
+        </p_product_expectedduration>
+        <castParticipants />
+        <p_series_year>1990</p_series_year>
+        <type>
+          <ESP_PRODUCTTYPE name=""Episode"" />
+        </type>
+        <p_episode_series>
+          <ES_PRODUCT prd_external_reference=""RLS19434"" p_product_productcode=""RLS19434"" seasonNumberDefinition=""Season 12"" p_product_title=""Season 12"" p_series_expectednrofepisodes=""24"" p_product_masterseriesyear=""12"">
+            <type>
+              <ESP_PRODUCTTYPE name=""Season"" />
+            </type>
+            <p_product_expectedduration>
+              <ESP_TIMEDURATION duration=""00:00.000"" />
+            </p_product_expectedduration>
+            <p_product_productversion>
+              <ESP_PRODUCTVERSION name=""Master"" />
+            </p_product_productversion>
+            <p_program_productionfirms>
+              <ES_FIRM>
+                <firm_external_reference>RLC8236</firm_external_reference>
+                <f_name>NBC Universal</f_name>
+                <f_type>
+                  <ESP_FIRMTYPE name=""Distributor"" />
+                </f_type>
+              </ES_FIRM>
+            </p_program_productionfirms>
+            <p_product_productionmode />
+            <p_product_origin>Licensed</p_product_origin>
+            <p_product_contents>Series</p_product_contents>
+            <p_product_intention>AMC</p_product_intention>
+            <overwriteSecurityStatus>Open</overwriteSecurityStatus>
+            <parentSerie>
+              <ES_PRODUCT prd_external_reference=""RLA188604"" p_product_type=""ParentSeries"" episodeNumber="""" p_product_productcode=""RLA188604"" p_product_yearofproductionfrom=""1990"" p_product_yearofproductiontill="""">
+                <p_product_producttitles>
+                  <ES_PRODUCTTITLE pt_isalternativetitle=""true"">
+                    <pt_title>Law &amp; Order</pt_title>
+                    <pt_type>
+                      <ESP_PRODUCTTITLETYPE name=""OriginalTitle"" />
+                    </pt_type>
+                    <pt_isbroadcasttitle>true</pt_isbroadcasttitle>
+                  </ES_PRODUCTTITLE>
+                  <ES_PRODUCTTITLE pt_isalternativetitle=""false"">
+                    <pt_title>Law &amp; Order AKA</pt_title>
+                    <pt_type>
+                      <ESP_PRODUCTTITLETYPE name=""AKA"" />
+                    </pt_type>
+                  </ES_PRODUCTTITLE>
+                </p_product_producttitles>
+                <p_product_productversion>
+                  <ESP_PRODUCTVERSION name=""Master"" />
+                </p_product_productversion>
+                <p_product_contents>Series</p_product_contents>
+                <p_program_nature>
+                  <ESP_NATURE name=""Acquired"" />
+                </p_program_nature>
+                <p_product_intention>AMC</p_product_intention>
+                <p_product_productionmode />
+                <p_product_origin>Licensed</p_product_origin>
+                <boTargetGroup>
+                  <ESP_TARGETGROUP name=""Restricted (R)"" />
+                </boTargetGroup>
+                <p_program_productionfirms>
+                  <ES_FIRM>
+                    <firm_external_reference>RLC8236</firm_external_reference>
+                    <f_name>NBC Universal</f_name>
+                    <f_type>
+                      <ESP_FIRMTYPE name=""Distributor"" />
+                    </f_type>
+                  </ES_FIRM>
+                </p_program_productionfirms>
+                <overwriteSecurityStatus>Open</overwriteSecurityStatus>
+                <p_product_expectedduration>
+                  <ESP_TIMEDURATION duration=""00:00.000"" durationinseconds=""0"" />
+                </p_product_expectedduration>
+                <castParticipants />
+                <type>
+                  <ESP_PRODUCTTYPE name=""Series"" />
+                </type>
+              </ES_PRODUCT>
+            </parentSerie>
+          </ES_PRODUCT>
+        </p_episode_series>
+      </ES_PRODUCT>
+    </NS1:request>
+  </NS1:body>
+</NS1:root>"

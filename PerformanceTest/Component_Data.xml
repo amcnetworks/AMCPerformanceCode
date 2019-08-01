@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NS1:root xmlns:NS1="http://schemahost.amcnetworks.com:8080/amcnesb/schemas" xmlns:amc="http://schemahost.amcnetworks.com:8080/amcnesb/schemas/adam">
+    <NS1:header>
+        <NS1:source_system>ESB</NS1:source_system>
+        <NS1:eventDefs>
+            <NS1:event>AMCN.PUBLISH.MAT.FTX</NS1:event>
+            <NS1:bid>RLA207489PM</NS1:bid>
+            <NS1:request_id>2b4674c7.5d96cc</NS1:request_id>
+            <NS1:event_id>3F73A20D-AFDD-4247-B16C-092EE7682E15</NS1:event_id>
+            <bpm_process_id>3F73A20D-AFDD-4247-B16C-092EE7682E15</bpm_process_id>
+            <bpm_activity_id>3F73A20D-AFDD-4247-B16C-092EE7682E15</bpm_activity_id>
+        </NS1:eventDefs>
+    </NS1:header>
+    <NS1:body>
+        <amc:AMCN-ProgramADAM xmlns:amc="http://schemahost.amcnetworks.com:8080/amcnesb/schemas/adam" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://10.6.22.11:99/adam/v1.7.4/ProgramADAM_GenericSchema.xsd">
+            <amc:Series>
+                <amc:AMCNID>RLA207484</amc:AMCNID>
+                <amc:RLParentTitleAssetID>RLA207484</amc:RLParentTitleAssetID>
+                <amc:Titles>
+                    <amc:Title Language="en">The Symbox Show</amc:Title>
+                </amc:Titles>
+                <amc:TitleType>ParentSeries</amc:TitleType>
+				<amc:AlternativeTitles>
+                <amc:AlternativeTitle Language="en" Type="PS">N/A</amc:AlternativeTitle>
+                </amc:AlternativeTitles>
+                <amc:Descriptions>
+                <amc:Description Language="en" Type="TV series">N/A</amc:Description>
+                </amc:Descriptions>
+                <amc:OwnerNetwork>BBCA</amc:OwnerNetwork>
+                <amc:SecurityStatus>Open</amc:SecurityStatus>
+                <amc:AssetSource>Original</amc:AssetSource>
+                <amc:ShowType>Series</amc:ShowType>
+                <amc:ProductionMode>Scripted</amc:ProductionMode>
+                <amc:Origin>Licensed</amc:Origin>
+                <amc:Supplier>QATEST</amc:Supplier>
+				<amc:PostHouse>N/A</amc:PostHouse>
+                <amc:Copyright>N/A</amc:Copyright>
+                <amc:CountryOfOrigin>N/A</amc:CountryOfOrigin>
+                <amc:OriginalLanguage>N/A</amc:OriginalLanguage>
+                <amc:ReleaseYear>2019</amc:ReleaseYear>
+                <amc:CoreMetadataStatus>N/A</amc:CoreMetadataStatus>
+                <amc:EntertainmentMetadataStatus>N/A</amc:EntertainmentMetadataStatus>
+            </amc:Series>
+            <amc:Season>
+                <amc:AMCNID>RLS18334</amc:AMCNID>
+                <amc:RLParentTitleAssetID>RLS18334</amc:RLParentTitleAssetID>
+                <amc:HierarchyParentID>RLA207484</amc:HierarchyParentID>
+                <amc:Titles>
+                    <amc:Title Language="en">Season 1</amc:Title>
+                </amc:Titles>
+				<amc:Descriptions>
+                <amc:Description Language="en" Type="S"></amc:Description>
+                </amc:Descriptions>
+                <amc:TitleType>Series</amc:TitleType>
+                <amc:OwnerNetwork>BBCA</amc:OwnerNetwork>
+                <amc:SecurityStatus>Open</amc:SecurityStatus>
+                <amc:RLSeasonAssetID>RLS18334</amc:RLSeasonAssetID>
+                <amc:SeasonNumber>1</amc:SeasonNumber>
+				<amc:TotalNoOfEpisodes>N/A</amc:TotalNoOfEpisodes>
+                <amc:FirstEpisodePremiereDate>N/A</amc:FirstEpisodePremiereDate>
+				<amc:AssetSource>N/A</amc:AssetSource>
+                <amc:ShowType>N/A</amc:ShowType>
+                <amc:ProductionMode>N/A</amc:ProductionMode>
+                <amc:Origin>N/A</amc:Origin>
+				<amc:ReleaseYear>N/A</amc:ReleaseYear>
+                <amc:CoreMetadataStatus>N/A</amc:CoreMetadataStatus>
+                <amc:EntertainmentMetadataStatus>N/A</amc:EntertainmentMetadataStatus>
+                <amc:Inactive>N/A</amc:Inactive>
+				<amc:Supplier>QATEST</amc:Supplier>
+            </amc:Season>
+            <amc:Episode>
+                <amc:AMCNID>RLA207489</amc:AMCNID>
+                <amc:RLParentTitleAssetID>RLA207489</amc:RLParentTitleAssetID>
+                <amc:HierarchyParentID>RLS18334</amc:HierarchyParentID>
+                <amc:Titles>
+                    <amc:Title Language="en">The Symbox Show: 01-001: Episode 20</amc:Title>
+                </amc:Titles>
+                <amc:TitleType>Episode</amc:TitleType>
+                <amc:OwnerNetwork>BBCA</amc:OwnerNetwork>
+                <amc:SecurityStatus>Open</amc:SecurityStatus>
+                <amc:RLEpisodeAssetID>RLA207489</amc:RLEpisodeAssetID>
+                <amc:EpisodeTitle>
+                    <amc:Title Language="en">The Symbox Show: 01-001: Episode 20</amc:Title>
+                </amc:EpisodeTitle>
+                <amc:EpisodeNumber>01-020</amc:EpisodeNumber>
+                <amc:AssetSource>Original</amc:AssetSource>
+                <amc:ProductionMode>Scripted</amc:ProductionMode>
+                <amc:Origin>Licensed</amc:Origin>
+                <amc:Supplier>QATEST</amc:Supplier>
+                <amc:AiringOrder>5</amc:AiringOrder>
+                <amc:ReleaseYear>2018</amc:ReleaseYear>
+                <amc:EditRestricted>NR</amc:EditRestricted>
+				<amc:EarliestRequiredByDate>N/A</amc:EarliestRequiredByDate>
+				<amc:FirstPremiereDateTime>N/A</amc:FirstPremiereDateTime>
+				<amc:ShowType>N/A</amc:ShowType>
+				<amc:SecurityDateTime>N/A</amc:SecurityDateTime>
+				<amc:Inactive>N/A</amc:Inactive>
+            </amc:Episode>
+            <amc:EpisodeVersion>
+                <amc:AMCNID>HPID-056</amc:AMCNID>
+                <amc:RLParentTitleAssetID>RLA207489PKV9</amc:RLParentTitleAssetID>
+                <amc:HierarchyParentID>RLA207489</amc:HierarchyParentID>
+                <amc:Titles>
+                    <amc:Title Language="en">The Symbox Show: 01-001: Episode 20</amc:Title>
+                </amc:Titles>
+                <amc:OwnerNetwork>BBCA</amc:OwnerNetwork>
+                <amc:SecurityStatus>Super Secure</amc:SecurityStatus>
+                <amc:EpisodeVersionTypeCode>PM</amc:EpisodeVersionTypeCode>
+				<amc:FirstPremiereDateTime>N/A</amc:FirstPremiereDateTime>
+				<amc:EarliestRequiredByDate>N/A</amc:EarliestRequiredByDate>
+				<amc:Supplier>QATEST</amc:Supplier>
+				<amc:EditRestricted>N/A</amc:EditRestricted>
+                <amc:PostHouse>N/A</amc:PostHouse>
+				<amc:Inactive>N/A</amc:Inactive>
+				<amc:AirTimes>
+                    <amc:AirTime Network="AMC" WOPInternalID="12737">2018-10-31T21:00:00</amc:AirTime>
+                    <amc:AirTime Network="AMC" WOPInternalID="12738">2018-11-01T23:00:00</amc:AirTime>
+                </amc:AirTimes>
+            </amc:EpisodeVersion>
+        </amc:AMCN-ProgramADAM>
+    </NS1:body>
+</NS1:root>
